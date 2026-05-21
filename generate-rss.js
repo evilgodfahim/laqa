@@ -1,4 +1,4 @@
-const fs   = require("fs");
+const fs    = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
 const RSS   = require("rss");
@@ -8,111 +8,6 @@ const OUTPUT_FILE     = "./feeds/feed.xml";
 const MAX_ITEMS       = 500;
 
 fs.mkdirSync("./feeds", { recursive: true });
-
-// ===== BANGLA DIGIT → ASCII =====
-function banglaToAscii(str) {
-  const map = {
-    '০':'0','১':'1','২':'2','৩':'3','৪':'4',
-    '৫':'5','৬':'6','৭':'7','৮':'8','৯':'9',
-  };
-  return str.replace(/[০-৯]/g, d => map[d] ?? d);
-}
-
-// ===== DATE PARSING =====
-// Handles:
-//   ISO 8601         → "2026-04-24T09:07:05.453827+06:00"  (AjkerPatrika first_published_at)
-//   ISO 8601 simple  → "2026-04-04T16:11:45+06:00"         (Ittefaq data-published)
-//   Space-separated  → "2026-04-05 09:48:24"               (JatiyoArthoniti)
-//   Month-first BD   → "এপ্রিল ২, ২০২৬,  ০৪:২১ পিএম"    (RupaliBD)
-//   Day-first BD DT  → "০৩ এপ্রিল ২০২৬, ১২:০২ এএম"       (Inqilab)
-//   Day-first BD DO  → "০৩ এপ্রিল ২০২৬"                   (Inqilab fallback)
-//   MZamin           → "১১ এপ্রিল (শনিবার), ২০২৬"         (day-of-week stripped)
-
-const BANGLA_MONTHS = {
-  'জানুয়ারি':0, 'ফেব্রুয়ারি':1, 'মার্চ':2,    'এপ্রিল':3,
-  'মে':4,        'জুন':5,         'জুলাই':6,    'আগস্ট':7,
-  'সেপ্টেম্বর':8,'অক্টোবর':9,    'নভেম্বর':10, 'ডিসেম্বর':11,
-};
-
-function parseDate(raw) {
-  if (!raw || !raw.trim()) return new Date();
-
-  // Strip parenthetical day-of-week: "১১ এপ্রিল (শনিবার), ২০২৬" → "১১ এপ্রিল ২০২৬"
-  let str = raw.trim().replace(/\s*\([^)]+\),?\s*/g, ' ').trim();
-
-  // Strip "প্রকাশ: " / "আপডেট: " prefixes (Khoborer Kagoj)
-  str = str.replace(/^(প্রকাশ|আপডেট)\s*:\s*/u, '').trim();
-
-  // Normalise space-separated datetime → ISO T form
-  str = str.replace(/^(\d{4}-\d{2}-\d{2}) (\d{2}:\d{2}:\d{2})$/, '$1T$2');
-
-  // DD-MM-YYYY HH:MM:SS (Dhaka Mail datePublished: "03-05-2026 13:23:25")
-  const dmRe = /^(\d{2})-(\d{2})-(\d{4}) (\d{2}):(\d{2}):(\d{2})$/;
-  const dmm  = str.match(dmRe);
-  if (dmm) {
-    return new Date(
-      parseInt(dmm[3]), parseInt(dmm[2]) - 1, parseInt(dmm[1]),
-      parseInt(dmm[4]), parseInt(dmm[5]), parseInt(dmm[6])
-    );
-  }
-
-  // ISO 8601 (includes +06:00 offset variants from AjkerPatrika)
-  if (/^\d{4}-\d{2}-\d{2}T/.test(str)) {
-    const d = new Date(str);
-    if (!isNaN(d)) return d;
-  }
-
-  // Month-first Bangla datetime: "এপ্রিল ২, ২০২৬,  ০৪:২১ পিএম"
-  const mfRe = /^(\S+)\s+([০-৯\d]+),?\s+([০-৯\d]+)[,،]?\s+([০-৯\d]+):([০-৯\d]+)\s*(এএম|পিএম|AM|PM)?/i;
-  const mfm  = str.match(mfRe);
-  if (mfm && BANGLA_MONTHS[mfm[1]] !== undefined) {
-    const month = BANGLA_MONTHS[mfm[1]];
-    const day   = parseInt(banglaToAscii(mfm[2]), 10);
-    const year  = parseInt(banglaToAscii(mfm[3]), 10);
-    let   hour  = parseInt(banglaToAscii(mfm[4]), 10);
-    const min   = parseInt(banglaToAscii(mfm[5]), 10);
-    const ampm  = (mfm[6] || "").trim().toUpperCase();
-    if (ampm === 'পিএম' || ampm === 'PM') { if (hour < 12) hour += 12; }
-    if (ampm === 'এএম' || ampm === 'AM') { if (hour === 12) hour = 0; }
-    return new Date(year, month, day, hour, min, 0);
-  }
-
-  // Day-first Bangla datetime: "০৩ এপ্রিল ২০২৬, ১২:০২ এএম"
-  const dtRe = /^([০-৯]+)\s+(\S+)\s+([০-৯]+)[,،]?\s*([০-৯]+):([০-৯]+)\s*(এএম|পিএম)?/;
-  const m = str.match(dtRe);
-  if (m) {
-    const day   = parseInt(banglaToAscii(m[1]), 10);
-    const month = BANGLA_MONTHS[m[2]];
-    const year  = parseInt(banglaToAscii(m[3]), 10);
-    let   hour  = parseInt(banglaToAscii(m[4]), 10);
-    const min   = parseInt(banglaToAscii(m[5]), 10);
-    const ampm  = m[6];
-    if (month === undefined) {
-      console.warn(`⚠️  Unknown Bangla month: "${m[2]}" in "${str}"`);
-      return new Date();
-    }
-    if (ampm === 'পিএম' && hour < 12) hour += 12;
-    if (ampm === 'এএম' && hour === 12) hour = 0;
-    return new Date(year, month, day, hour, min, 0);
-  }
-
-  // Bangla date-only: "০৩ এপ্রিল ২০২৬"
-  const dRe = /^([০-৯]+)\s+(\S+)\s+([০-৯]+)/;
-  const m2 = str.match(dRe);
-  if (m2) {
-    const day   = parseInt(banglaToAscii(m2[1]), 10);
-    const month = BANGLA_MONTHS[m2[2]];
-    const year  = parseInt(banglaToAscii(m2[3]), 10);
-    if (month !== undefined) return new Date(year, month, day, 0, 0, 0);
-  }
-
-  // Native fallback
-  const d = new Date(str);
-  if (!isNaN(d)) return d;
-
-  console.warn(`⚠️  Could not parse date: "${str}" — using now()`);
-  return new Date();
-}
 
 // ===== FLARESOLVERR =====
 async function fetchWithFlareSolverr(url) {
@@ -129,933 +24,88 @@ async function fetchWithFlareSolverr(url) {
   throw new Error("FlareSolverr did not return a solution");
 }
 
-// ===== SCRAPER: DAILY INQILAB EDITORIAL =====
-function scrapeInqilab(html, seen) {
-  const $       = cheerio.load(html);
-  const baseURL = "https://dailyinqilab.com";
-  const items   = [];
-
-  const $leadAnchor = $(".row.d-flex.flex-row").first().find("> a").first();
-  if ($leadAnchor.length) {
-    const href = $leadAnchor.attr("href") || "";
-    const link = href.startsWith("http") ? href : baseURL + href;
-    if (href && !seen.has(link)) {
-      seen.add(link);
-      const title       = $leadAnchor.find("h4").first().text().trim();
-      const description = $leadAnchor.find("p").first().text().trim();
-      const image       = $leadAnchor.find("img").first().attr("src") || null;
-      if (title) {
-        items.push({ title, link, description, image, date: new Date(), category: "সম্পাদকীয়" });
-      }
-    }
-  }
-
-  $(".row.mt-5 .col-md-6").each((_, el) => {
-    const $a = $(el).find("> a").first();
-    if (!$a.length) return;
-    const href = $a.attr("href") || "";
-    const link = href.startsWith("http") ? href : baseURL + href;
-    if (!href || seen.has(link)) return;
-    seen.add(link);
-
-    const title = $a.find("p.content-heading").text().trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: "",
-      image:    $a.find("img.img-fluid").first().attr("src") || null,
-      date:     parseDate($a.find("section.news-date-time").text().trim()),
-      category: "সম্পাদকীয়",
-    });
-  });
-
-  console.log(`  [Inqilab] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: DAILY ITTEFAQ OPINION =====
-const ITTEFAQ_CDN = "https://cdn.ittefaqbd.com/contents/cache/images/800x450x1/uploads/";
-
-function scrapeIttefaq(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $(".each.col_in").each((_, el) => {
-    const $el     = $(el);
-    const $anchor = $el.find("h2.title a.link_overlay").first();
-    const title   = ($anchor.attr("title") || $anchor.text()).trim();
-    let   href    = $anchor.attr("href") || "";
-    if (!href || !title) return;
-
-    if (href.startsWith("//"))         href = "https:" + href;
-    else if (!href.startsWith("http")) href = "https://www.ittefaq.com.bd" + href;
-    if (seen.has(href)) return;
-    seen.add(href);
-
-    const $timeEl   = $el.find("span.time.aitm").first();
-    const published = ($timeEl.attr("data-published") || "").trim();
-
-    let image = null;
-    const $ariSpan = $el.find("span[data-ari]").first();
-    if ($ariSpan.length) {
-      try {
-        const ari = JSON.parse($ariSpan.attr("data-ari"));
-        if (ari.path) image = ITTEFAQ_CDN + ari.path.split("?")[0];
-      } catch (_) {}
-    }
-
-    items.push({
-      title,
-      link:        href,
-      description: $el.find("div.summery").text().trim(),
-      image,
-      date:        parseDate(published || $timeEl.text().trim()),
-      category:    $el.find("span.author.aitm").text().trim() || "মতামত",
-    });
-  });
-
-  console.log(`  [Ittefaq] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: AMAR DESH – OP-ED =====
-const AMARDESH_BASE = "https://www.dailyamardesh.com";
-
-function extractAmarDeshImage($el) {
-  const $img  = $el.find("img").first();
-  if (!$img.length) return null;
-  const srcset = $img.attr("srcset") || "";
-  if (srcset) {
-    const firstUrl = srcset.split(",")[0].trim().split(/\s+/)[0];
-    if (firstUrl && firstUrl.startsWith("http")) return firstUrl;
-  }
-  const src = $img.attr("src") || "";
-  return src.startsWith("http") ? src : null;
-}
-
-function scrapeAmarDesh(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article > a").each((_, el) => {
-    const $a = $(el);
-    if (($a.attr("class") || "").includes("text-red-600")) return;
-    const href = $a.attr("href") || "";
-    if (!href) return;
-    const link = href.startsWith("http") ? href : AMARDESH_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    const title = (
-      $a.find("h2 span, h3 span").first().text() ||
-      $a.find("h2, h3").first().text()
-    ).trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: "",
-      image:    extractAmarDeshImage($a),
-      date:     parseDate($a.find('time[itemprop="datePublished"]').attr("datetime") || ""),
-      category: "মতামত",
-    });
-  });
-
-  $("a").filter((_, el) => $(el).attr("class") === "bg-white group block h-full").each((_, el) => {
-    const $a   = $(el);
-    const href = $a.attr("href") || "";
-    if (!href) return;
-    const link = href.startsWith("http") ? href : AMARDESH_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    const title = (
-      $a.find("h3 span").first().text() ||
-      $a.find("h3").first().text()
-    ).trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: "",
-      image:    extractAmarDeshImage($a),
-      date:     parseDate($a.find('time[itemprop="datePublished"]').attr("datetime") || ""),
-      category: "মতামত",
-    });
-  });
-
-  console.log(`  [AmarDesh] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: JATIYO ARTHONITI – OPINION (মত-দ্বিমত) =====
-// Container: article.col-sm-4 (3-col grid)
-const JATIYOARTHONITI_BASE = "https://jatiyoarthoniti.com";
-
-function scrapeJatiyoArthoniti(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article.col-sm-4").each((_, el) => {
-    const $el = $(el);
-
-    const href = (
-      $el.find("div.ratio_360-202 a").first().attr("href") ||
-      $el.find("h3.card-title a").first().attr("href") ||
-      ""
-    ).trim();
-    if (!href) return;
-
-    const link = href.startsWith("http") ? href : JATIYOARTHONITI_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    const title = (
-      $el.find("h3.card-title a").first().text().trim() ||
-      $el.find("img.img-fluid").first().attr("alt") || ""
-    );
-    if (!title) return;
-
-    const $img = $el.find("img.img-fluid").first();
-
-    items.push({
-      title,
-      link,
-      description: $el.find("p.card-text").first().text().trim(),
-      image:       ($img.attr("data-src") || $img.attr("src") || null) || null,
-      date:        parseDate($el.find("time").first().attr("datetime") || ""),
-      category:    "মত-দ্বিমত",
-    });
-  });
-
-  console.log(`  [JatiyoArthoniti] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: SHAREBIZ – EDITORIAL (সম্পাদকীয়) =====
-const SHAREBIZ_BASE = "https://sharebiz.net";
-
-function extractShareBizImage($el) {
-  const bgSrc   = ($el.find(".thumbnail-container").first().attr("data-src") || "").trim();
-  if (bgSrc && !bgSrc.startsWith("data:")) return bgSrc;
-  const lazySrc = ($el.find("img").first().attr("data-src") || "").trim();
-  if (lazySrc && !lazySrc.startsWith("data:")) return lazySrc;
-  const src     = ($el.find("img").first().attr("src") || "").trim();
-  return (src && !src.startsWith("data:")) ? src : null;
-}
-
-function scrapeShareBiz(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article.jeg_post[class*='jeg_hero_item']").each((_, el) => {
-    const $el = $(el);
-    if (!$el.find("div.jeg_post_category a.category-editorial").length) return;
-    const href = ($el.find("div.jeg_thumb > a").first().attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $el.find("h2.jeg_post_title a").text().trim();
-    if (!title) return;
-    items.push({ title, link, description: "", image: extractShareBizImage($el), date: new Date(), category: "সম্পাদকীয়" });
-  });
-
-  $("article.jeg_post.jeg_pl_md_1").each((_, el) => {
-    const $el = $(el);
-    const href = (
-      $el.find("div.jeg_thumb > a").first().attr("href") ||
-      $el.find("h3.jeg_post_title a").first().attr("href") ||
-      ""
-    ).trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : SHAREBIZ_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $el.find("h3.jeg_post_title a").text().trim();
-    if (!title) return;
-    items.push({ title, link, description: "", image: extractShareBizImage($el), date: new Date(), category: "সম্পাদকীয়" });
-  });
-
-  console.log(`  [ShareBiz] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: JOBAN MAGAZINE =====
-const JOBAN_BASE  = "https://jobanmagazine.com";
-const BG_IMAGE_RE = /background-image\s*:\s*url\(\s*['"]?([^'")]+)['"]?\s*\)/i;
-
-function scrapeJoban(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article.post-card").each((_, el) => {
-    const $el    = $(el);
-    const $thumb = $el.find("a.card-thumbnail").first();
-    const href   = ($thumb.attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : JOBAN_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    const $clone = $el.find("h2.card-title").first().clone();
-    $clone.find("span").remove();
-    const title = $clone.text().trim();
-    if (!title) return;
-
-    let image = null;
-    const bgMatch = ($thumb.attr("style") || "").match(BG_IMAGE_RE);
-    if (bgMatch && bgMatch[1]) image = bgMatch[1].trim();
-    if (!image) {
-      const fallback = ($thumb.find("img.d-none").first().attr("src") || "").trim();
-      if (fallback && !fallback.startsWith("data:")) image = fallback;
-    }
-    if (image && image.startsWith("data:")) image = null;
-
-    items.push({
-      title,
-      link,
-      description: $el.find("p.card-description").first().text().trim(),
-      image,
-      date:     new Date(),
-      category: $el.find("a.post-category").first().text().trim() || "চলতি চিন্তা",
-    });
-  });
-
-  console.log(`  [Joban] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: MANAB ZAMIN – মত-মতান্তর =====
-// Date format: "১১ এপ্রিল (শনিবার), ২০২৬" — day-of-week stripped by parseDate
-const MZAMIN_BASE = "https://www.mzamin.com";
-
-function scrapeMzamin(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article").each((_, el) => {
-    const $el     = $(el);
-    const $anchor = $el.find("h2.font-semibold a").first();
-    const href    = ($anchor.attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : MZAMIN_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $anchor.text().trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: $el.find("p.mt-3.text-sm").first().text().trim(),
-      image:       $el.find("div.relative.h-48 img").first().attr("src") || null,
-      date:        parseDate($el.find("span.flex.items-center.gap-2").first().text().trim()),
-      category:    "মত-মতান্তর",
-    });
-  });
-
-  console.log(`  [MzaminOpinion] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: RUPALI BANGLADESH – মুক্তবাক =====
-// Date: "এপ্রিল ২, ২০২৬,  ০৪:২১ পিএম" (month-first Bangla)
-const RUPALI_BASE = "https://www.rupalibangladesh.com";
-
-function scrapeRupali(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("div.category-news").each((_, el) => {
-    const $el     = $(el);
-    const $anchor = $el.find("> a").first();
-    const href    = ($anchor.attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : RUPALI_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $el.find("div.category-news-text h2").first().text().trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: $el.find("div.category-news-text p").first().text().trim(),
-      image:       $el.find("div.category-news-img img").first().attr("src") || null,
-      date:        parseDate($el.find("div.category-news-text small").first().text().trim()),
-      category:    "মুক্তবাক",
-    });
-  });
-
-  console.log(`  [RupaliBD] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: DAILY SANGRAM – মতামত =====
-// No images or dates in listing view
-const SANGRAM_BASE = "https://dailysangram.com";
-
-function scrapeSangram(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("div.card-content").each((_, el) => {
-    const $el     = $(el);
-    const $anchor = $el.find("a[href]").first();
-    const href    = ($anchor.attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : SANGRAM_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-    const title = $el.find("h2.title").first().text().trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: $el.find("p.summary").first().text().trim(),
-      image:    null,
-      date:     new Date(),
-      category: "মতামত",
-    });
-  });
-
-  console.log(`  [Sangram] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: AJKER PATRIKA – মতামত & বিশ্লেষণ =====
-// URL: https://www.ajkerpatrika.com/op-ed   (category slug: op-ed)
-//      https://www.ajkerpatrika.com/analysis (category slug: analysis)
-// Framework: Next.js RSC — article data embedded in self.__next_f.push([1,"..."]) script tags
+// ===== SCRAPER: TIMES OF BANGLADESH =====
+// Works for:
+//   Category page : https://tob.news/category/opinion/
+//   Author pages  : https://tob.news/author/navid/
+//                   https://tob.news/author/timesopinion/
 //
-// Strategy:
-//   1. Extract the RSC payload from <script> tags containing "categoryStories"
-//   2. Un-escape the JS string literal (\" → ", \\n → etc.)
-//   3. Use bracket-counting extractor to pull the "categoryStories" JSON array
-//   4. Map each story to item: dates from meta.first_published_at (ISO 8601 +06:00),
-//      images from blog_image.download_url, excerpts, subcategory names
-//   5. URL: /op-ed/{subcat_slug}/{news_slug}  or  /analysis/{news_slug}
-//
-//   Also scrape the hero article from the HTML DOM (it is NOT in categoryStories).
-//   Hero selector: the first <a> with class containing both "grid-cols-1" and "group"
-//   that has an <h2> child. Date unavailable for hero → new Date().
+// Article container : article.l-post.list-post
+// Title + link      : h3.is-title.post-title a[href]
+// Image             : img[data-src] inside div.media  (lazy-loaded; src is SVG placeholder)
+// Date              : time.post-date[datetime]  →  ISO 8601 with +06:00 offset
+// Author            : span.meta-item.post-author a
+// Excerpt           : div.excerpt p
 
-const AJKER_BASE = "https://www.ajkerpatrika.com";
+const TOB_BASE = "https://tob.news";
 
-// Bracket-counting JSON array extractor.
-// Finds the first "[" after `"key":` and returns the balanced substring.
-function extractJsonArray(text, key) {
-  const keyIdx = text.indexOf(`"${key}":`);
-  if (keyIdx === -1) return null;
-
-  const start = text.indexOf('[', keyIdx);
-  if (start === -1) return null;
-
-  let depth    = 0;
-  let inString = false;
-  let escape   = false;
-
-  for (let i = start; i < text.length; i++) {
-    const ch = text[i];
-    if (escape)               { escape = false; continue; }
-    if (ch === '\\' && inString) { escape = true; continue; }
-    if (ch === '"')           { inString = !inString; continue; }
-    if (inString)             continue;
-    if (ch === '[' || ch === '{') depth++;
-    else if (ch === ']' || ch === '}') {
-      depth--;
-      if (depth === 0) return text.slice(start, i + 1);
-    }
-  }
-  return null;
-}
-
-function scrapeAjkerPatrika(html, seen, catLabel) {
+function scrapeTOB(html, seen, category) {
   const $     = cheerio.load(html);
   const items = [];
 
-  // ── Extract categoryStories from RSC payload ─────────────────────────────
-  let stories = [];
-
-  $("script").each((_, el) => {
-    const raw = $(el).html() || "";
-    if (!raw.includes("categoryStories")) return;
-
-    // The payload is a JS string literal inside self.__next_f.push([1,"..."])
-    // Un-escape the most common escape sequences to recover the embedded JSON
-    const decoded = raw
-      .replace(/\\"/g,   '"')
-      .replace(/\\n/g,   '')
-      .replace(/\\r/g,   '')
-      .replace(/\\t/g,   '')
-      .replace(/\\u003c/gi, '<')
-      .replace(/\\u003e/gi, '>')
-      .replace(/\\u0026/gi, '&');
-
-    const arrayStr = extractJsonArray(decoded, "categoryStories");
-    if (!arrayStr) return;
-
-    try {
-      stories = JSON.parse(arrayStr);
-    } catch (e) {
-      console.warn(`  [AjkerPatrika] JSON parse failed: ${e.message}`);
-    }
-  });
-
-  for (const story of stories) {
-    const catSlug    = story.categories?.[0]?.slug || "op-ed";
-    const subcatSlug = story.subcategories?.[0]?.slug || "";
-    const newsSlug   = story.news_slug;
-    if (!newsSlug) continue;
-
-    const link = subcatSlug
-      ? `${AJKER_BASE}/${catSlug}/${subcatSlug}/${newsSlug}`
-      : `${AJKER_BASE}/${catSlug}/${newsSlug}`;
-
-    if (seen.has(link)) continue;
-    seen.add(link);
-
-    const title = (story.title || "").trim();
-    if (!title) continue;
-
-    items.push({
-      title,
-      link,
-      description: (story.excerpt || "").trim(),
-      image:       story.blog_image?.download_url || null,
-      date:        parseDate(story.meta?.first_published_at || ""),
-      category:    story.subcategories?.[0]?.name || catLabel,
-    });
-  }
-
-  // ── Hero article (in DOM, not in categoryStories) ─────────────────────────
-  // Selector: first <a> whose class contains "grid-cols-1" and "group"
-  // that also has an <h2> child
-  $("a").each((_, el) => {
-    const $a  = $(el);
-    const cls = $a.attr("class") || "";
-    if (!cls.includes("grid-cols-1") || !cls.includes("group")) return;
-    if (!$a.find("h2").length) return;
-
-    const href = ($a.attr("href") || "").trim();
-    if (!href) return;
-    const link = href.startsWith("http") ? href : AJKER_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    const title = (
-      $a.find("h2 span").first().text() ||
-      $a.find("h2").first().text()
-    ).trim();
-    if (!title) return;
-
-    items.push({
-      title,
-      link,
-      description: $a.find("p").first().text().trim(),
-      image:       $a.find("img").first().attr("src") || null,
-      date:        new Date(),   // hero block has no date in listing HTML
-      category:    catLabel,
-    });
-  });
-
-  console.log(`  [AjkerPatrika/${catLabel}] Scraped ${items.length} articles (${stories.length} from JSON + hero)`);
-  return items;
-}
-
-// ===== SCRAPER: DAINIK NAYA DIGANTA – মতামত =====
-// URL: https://dailynayadiganta.com/opinions
-// Framework: SvelteKit SSR
-//
-// Per article card:
-//   Container  → article.p-4
-//   Link/Title → h3.post-card-title a[href]  (absolute URL)
-//   Image      → img[src] inside a[data-sveltekit-reload] (the image anchor)
-//   Category   → derived from URL path:
-//                  /opinions/editorial/     → "সম্পাদকীয়"
-//                  /opinions/sub-editorial/ → "উপসম্পাদকীয়"
-//                  other                    → "মতামত"
-//   No date or description in listing view
-
-const ND_BASE = "https://dailynayadiganta.com";
-const ND_SUBCAT_MAP = {
-  "editorial":     "সম্পাদকীয়",
-  "sub-editorial": "উপসম্পাদকীয়",
-};
-
-function scrapeNayaDiganta(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("article.p-4").each((_, el) => {
+  $("article.l-post.list-post").each((_, el) => {
     const $el = $(el);
 
-    // Title & link from h3 anchor
-    const $titleAnchor = $el.find("h3.post-card-title a").first();
-    const href         = ($titleAnchor.attr("href") || "").trim();
+    // ── Link ──────────────────────────────────────────────────────────────────
+    const $titleAnchor = $el.find("h3.is-title.post-title a, h2.is-title.post-title a").first();
+    const href = ($titleAnchor.attr("href") || "").trim();
     if (!href) return;
 
-    const link = href.startsWith("http") ? href : ND_BASE + href;
+    const link = href.startsWith("http") ? href : TOB_BASE + href;
     if (seen.has(link)) return;
     seen.add(link);
 
+    // ── Title ─────────────────────────────────────────────────────────────────
     const title = $titleAnchor.text().trim();
     if (!title) return;
 
-    // Image from the image-link anchor
-    const image = $el.find("a[data-sveltekit-reload] img").first().attr("src") || null;
+    // ── Image (data-src on lazy-loaded img) ───────────────────────────────────
+    const $img  = $el.find("div.media img").first();
+    const image = ($img.attr("data-src") || $img.attr("src") || "").trim() || null;
+    // Discard the SVG placeholder base64 blobs
+    const finalImage = (image && !image.startsWith("data:")) ? image : null;
 
-    // Category from URL path segment
-    const pathSegment = href.split("/opinions/")?.[1]?.split("/")?.[0] || "";
-    const category    = ND_SUBCAT_MAP[pathSegment] || "মতামত";
+    // ── Date ──────────────────────────────────────────────────────────────────
+    const datetime = ($el.find("time.post-date").first().attr("datetime") || "").trim();
+    const date     = datetime ? new Date(datetime) : new Date();
+
+    // ── Author ────────────────────────────────────────────────────────────────
+    const author = $el.find("span.meta-item.post-author a").first().text().trim() || "";
+
+    // ── Excerpt ───────────────────────────────────────────────────────────────
+    const excerpt = $el.find("div.excerpt p").first().text().trim();
 
     items.push({
       title,
       link,
-      description: "",
-      image,
-      date:     new Date(),
+      description: excerpt,
+      image:       finalImage,
+      date,
       category,
+      author,
     });
   });
 
-  console.log(`  [NayaDiganta] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: JAGO NEWS 24 – মতামত =====
-// URL: https://www.jagonews24.com/opinion
-// Framework: Custom PHP (SSR)
-//
-// Two zones on the same page:
-//   Lead  → div.lead-article > a[href]
-//           Image: img[data-src]  (lazy; src is placeholder)
-//           Title: div.inner-content h3
-//
-//   List  → ul.news-list > li > a[href]
-//           Image: img[data-src]
-//           Title: h3.news-title
-//
-// Links come as mobile URLs (/m/opinion/article/ID) → normalized to desktop
-// No dates or descriptions in listing view
-
-const JAGO_BASE = "https://www.jagonews24.com";
-
-function normalizeJagoUrl(href) {
-  if (!href) return null;
-  const full = href.startsWith("http") ? href : JAGO_BASE + href;
-  // /m/opinion/article/ID  →  /opinion/article/ID
-  return full.replace("jagonews24.com/m/", "jagonews24.com/");
-}
-
-function scrapeJagoNews(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  // ── Lead article ──────────────────────────────────────────────────────────
-  const $lead = $("div.lead-article > a").first();
-  if ($lead.length) {
-    const link = normalizeJagoUrl($lead.attr("href"));
-    if (link && !seen.has(link)) {
-      seen.add(link);
-      const title = $lead.find("div.inner-content h3").text().trim();
-      const image = $lead.find("img").first().attr("data-src") || null;
-      if (title) {
-        items.push({ title, link, description: "", image, date: new Date(), category: "মতামত" });
-      }
-    }
-  }
-
-  // ── News list ──────────────────────────────────────────────────────────────
-  $("ul.news-list > li > a").each((_, el) => {
-    const $a  = $(el);
-    const link = normalizeJagoUrl($a.attr("href"));
-    if (!link || seen.has(link)) return;
-    seen.add(link);
-
-    const title = $a.find("h3.news-title").text().trim();
-    if (!title) return;
-
-    const image = $a.find("img").first().attr("data-src") || null;
-
-    items.push({ title, link, description: "", image, date: new Date(), category: "মতামত" });
-  });
-
-  console.log(`  [JagoNews24] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: DHAKA POST – মতামত =====
-// URL: https://www.dhakapost.com/opinion
-// Framework: Next.js RSC (App Router)
-//
-// Article data in `initialContents` JSON array embedded in RSC payload scripts.
-// Fields per item:
-//   Heading       → title
-//   URL           → absolute link (https://www.dhakapost.com/opinion/ID)
-//   ImagePathMd   → image (560×315)
-//   Brief         → excerpt
-//   CreatedAtBangla → "৩ মে ২০২৬, ১৪:০৪" (day-first Bangla, 24h, no AM/PM)
-//   parseDate handles this via existing day-first branch (no AM/PM → no correction)
-
-function scrapeDhakaPost(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-  let stories = [];
-
-  $("script").each((_, el) => {
-    const raw = $(el).html() || "";
-    if (!raw.includes("initialContents")) return;
-
-    const decoded = raw
-      .replace(/\\"/g, '"')
-      .replace(/\\n/g,  '')
-      .replace(/\\r/g,  '')
-      .replace(/\\t/g,  '')
-      .replace(/\\u003c/gi, '<')
-      .replace(/\\u003e/gi, '>')
-      .replace(/\\u0026/gi, '&');
-
-    const arrayStr = extractJsonArray(decoded, "initialContents");
-    if (!arrayStr) return;
-
-    try {
-      stories = JSON.parse(arrayStr);
-    } catch (e) {
-      console.warn(`  [DhakaPost] JSON parse failed: ${e.message}`);
-    }
-  });
-
-  for (const s of stories) {
-    const link = (s.URL || "").trim();
-    if (!link || seen.has(link)) continue;
-    seen.add(link);
-
-    const title = (s.Heading || "").trim();
-    if (!title) continue;
-
-    items.push({
-      title,
-      link,
-      description: (s.Brief || "").trim(),
-      image:       s.ImagePathMd || null,
-      date:        parseDate(s.CreatedAtBangla || ""),
-      category:    "মতামত",
-    });
-  }
-
-  console.log(`  [DhakaPost] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: DHAKA MAIL – মতামত =====
-// URL: https://dhakamail.com/opinion
-// Framework: Next.js Pages Router
-//
-// Article data in __NEXT_DATA__ script tag JSON.
-// Path: props.pageProps.data.stories.model[]
-// Fields:
-//   mainTitle     → title
-//   canonicalUrl  → absolute link
-//   fileName      → absolute image URL (cdx.dhakamail.com)
-//   subtitle      → description
-//   datePublished → "03-05-2026 13:23:25" (DD-MM-YYYY HH:MM:SS)
-//   parseDate handles via new DD-MM-YYYY branch
-
-function scrapeDhakaMail(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  const $nd = $("script#__NEXT_DATA__").first();
-  if (!$nd.length) {
-    console.warn("  [DhakaMail] __NEXT_DATA__ not found");
-    return items;
-  }
-
-  let data;
-  try {
-    data = JSON.parse($nd.html());
-  } catch (e) {
-    console.warn(`  [DhakaMail] JSON parse failed: ${e.message}`);
-    return items;
-  }
-
-  const model = data?.props?.pageProps?.data?.stories?.model || [];
-
-  for (const s of model) {
-    const link = (s.canonicalUrl || "").trim();
-    if (!link || seen.has(link)) continue;
-    seen.add(link);
-
-    const title = (s.mainTitle || "").trim();
-    if (!title) continue;
-
-    items.push({
-      title,
-      link,
-      description: (s.subtitle || "").trim(),
-      image:       s.fileName || null,
-      date:        parseDate(s.datePublished || ""),
-      category:    "মতামত",
-    });
-  }
-
-  console.log(`  [DhakaMail] Scraped ${items.length} articles`);
-  return items;
-}
-
-// ===== SCRAPER: KHOBORER KAGOJ – মতামত =====
-// URL: https://www.khaborerkagoj.com/opinion
-// Framework: Custom PHP (SSR)
-//
-// All opinion article links: a[href*="/opinion/"][title]
-// Image: img[src] inside anchor — relative path (uploads/...) → prepend base URL
-// Date: <small> text inside anchor:
-//   "প্রকাশ: ২৯ এপ্রিল ২০২৬, ০৫:০২ পিএম" → strip prefix → day-first Bangla DT
-//   "আপডেট: ২৭ এপ্রিল ২০২৬, ০৯:৪৬ এএম"  → same
-//   "১৩ ঘণ্টা আগে" / "১ দিন আগে"         → parseDate fallback → new Date()
-// Description: <p> text inside anchor (present on some cards)
-
-const KKJ_BASE = "https://www.khaborerkagoj.com";
-
-function scrapeKhaborerKagoj(html, seen) {
-  const $     = cheerio.load(html);
-  const items = [];
-
-  $("a[href]").each((_, el) => {
-    const $a  = $(el);
-    const href = ($a.attr("href") || "").trim();
-
-    // Must be an opinion article link (not the category page itself)
-    if (!href.match(/\/opinion\/\d+/)) return;
-
-    const link = href.startsWith("http") ? href : KKJ_BASE + href;
-    if (seen.has(link)) return;
-    seen.add(link);
-
-    // Title from title attribute (most reliable) or h5 text
-    const title = (
-      $a.attr("title") ||
-      $a.find("h5").first().text() ||
-      $a.find("h2").first().text()
-    ).trim();
-    if (!title) return;
-
-    // Image — relative src, prepend base
-    const $img   = $a.find("img").first();
-    const imgSrc = ($img.attr("src") || "").trim();
-    const image  = imgSrc
-      ? (imgSrc.startsWith("http") ? imgSrc : KKJ_BASE + "/" + imgSrc.replace(/^\//, ""))
-      : null;
-
-    // Date from <small>
-    const rawDate = $a.find("small").first().text().trim();
-
-    // Description from <p>
-    const description = $a.find("p").first().text().trim();
-
-    items.push({
-      title,
-      link,
-      description,
-      image,
-      date:     parseDate(rawDate),
-      category: "মতামত",
-    });
-  });
-
-  console.log(`  [KhaborerKagoj] Scraped ${items.length} articles`);
+  console.log(`  [TOB/${category}] Scraped ${items.length} articles`);
   return items;
 }
 
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
   {
-    label:   "Daily Inqilab – Editorial",
-    url:     "https://dailyinqilab.com/editorial",
-    scraper: scrapeInqilab,
+    label:   "Times of Bangladesh – Opinion",
+    url:     "https://tob.news/category/opinion/",
+    scraper: (html, seen) => scrapeTOB(html, seen, "Opinion"),
   },
   {
-    label:   "Daily Ittefaq – Opinion",
-    url:     "https://www.ittefaq.com.bd/opinion",
-    scraper: scrapeIttefaq,
+    label:   "Times of Bangladesh – Navid",
+    url:     "https://tob.news/author/navid/",
+    scraper: (html, seen) => scrapeTOB(html, seen, "Opinion"),
   },
   {
-    label:   "Amar Desh – Op-Ed",
-    url:     "https://www.dailyamardesh.com/op-ed",
-    scraper: scrapeAmarDesh,
-  },
-  {
-    label:   "Jatiyo Arthoniti – Opinion (মত-দ্বিমত)",
-    url:     "https://jatiyoarthoniti.com/category/opinion-and-editorial",
-    scraper: scrapeJatiyoArthoniti,
-  },
-  {
-    label:   "ShareBiz – Editorial (সম্পাদকীয়)",
-    url:     "https://sharebiz.net/category/daily-paper/editorial/",
-    scraper: scrapeShareBiz,
-  },
-  {
-    label:   "Joban Magazine – Opinion",
-    url:     "https://jobanmagazine.com/",
-    scraper: scrapeJoban,
-  },
-  {
-    label:   "Manab Zamin – মত-মতান্তর",
-    url:     "https://www.mzamin.com/category/%E0%A6%AE%E0%A6%A4-%E0%A6%AE%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A6%B0",
-    scraper: scrapeMzamin,
-  },
-  {
-    label:   "Rupali Bangladesh – মুক্তবাক",
-    url:     "https://www.rupalibangladesh.com/ajkerpatrika/opinion",
-    scraper: scrapeRupali,
-  },
-  {
-    label:   "Daily Sangram – মতামত",
-    url:     "https://dailysangram.com/opinion/",
-    scraper: scrapeSangram,
-  },
-  {
-    label:   "Ajker Patrika – মতামত",
-    url:     "https://www.ajkerpatrika.com/op-ed",
-    // bind catLabel into the generic scraper
-    scraper: (html, seen) => scrapeAjkerPatrika(html, seen, "মতামত"),
-  },
-  {
-    label:   "Ajker Patrika – বিশ্লেষণ",
-    url:     "https://www.ajkerpatrika.com/analysis",
-    scraper: (html, seen) => scrapeAjkerPatrika(html, seen, "বিশ্লেষণ"),
-  },
-  {
-    label:   "Dainik Naya Diganta – মতামত",
-    url:     "https://dailynayadiganta.com/opinions",
-    scraper: scrapeNayaDiganta,
-  },
-  {
-    label:   "Jago News 24 – মতামত",
-    url:     "https://www.jagonews24.com/opinion",
-    scraper: scrapeJagoNews,
-  },
-  {
-    label:   "Dhaka Post – মতামত",
-    url:     "https://www.dhakapost.com/opinion",
-    scraper: scrapeDhakaPost,
-  },
-  {
-    label:   "Dhaka Mail – মতামত",
-    url:     "https://dhakamail.com/opinion",
-    scraper: scrapeDhakaMail,
-  },
-  {
-    label:   "Khoborer Kagoj – মতামত",
-    url:     "https://www.khaborerkagoj.com/opinion",
-    scraper: scrapeKhaborerKagoj,
+    label:   "Times of Bangladesh – Times Opinion",
+    url:     "https://tob.news/author/timesopinion/",
+    scraper: (html, seen) => scrapeTOB(html, seen, "Opinion"),
   },
 ];
 
@@ -1098,11 +148,11 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "বাংলাদেশি সংবাদপত্র – সম্পাদকীয়, মতামত ও বিশ্লেষণ",
-    description: "Editorial, opinion and analysis from major Bangladeshi newspapers",
-    feed_url:    "https://dailyinqilab.com/editorial",
-    site_url:    "https://dailyinqilab.com",
-    language:    "bn",
+    title:       "Times of Bangladesh – Opinion",
+    description: "Opinion, editorial and analysis from Times of Bangladesh",
+    feed_url:    "https://tob.news/category/opinion/",
+    site_url:    "https://tob.news",
+    language:    "en",
     pubDate:     new Date().toUTCString(),
     custom_namespaces: { media: "http://search.yahoo.com/mrss/" },
   });
@@ -1119,6 +169,7 @@ function buildFeed(items) {
       description:     item.description || undefined,
       categories:      item.category ? [item.category] : undefined,
       date:            item.date,
+      author:          item.author || undefined,
       custom_elements: customElements.length ? customElements : undefined,
     });
   }
@@ -1159,7 +210,7 @@ async function generateRSS() {
     if (merged.length === 0) {
       merged.push({
         title:       "No articles found yet",
-        link:        "https://dailyinqilab.com",
+        link:        "https://tob.news",
         description: "RSS feed could not scrape any articles.",
         category:    "",
         image:       null,
@@ -1177,14 +228,14 @@ async function generateRSS() {
       const feed = new RSS({
         title:       "Feed (error fallback)",
         description: "RSS feed failed to scrape.",
-        feed_url:    "https://dailyinqilab.com",
-        site_url:    "https://dailyinqilab.com",
-        language:    "bn",
+        feed_url:    "https://tob.news",
+        site_url:    "https://tob.news",
+        language:    "en",
         pubDate:     new Date().toUTCString(),
       });
       feed.item({
         title:       "Feed generation failed",
-        url:         "https://dailyinqilab.com",
+        url:         "https://tob.news",
         description: "An error occurred during scraping.",
         date:        new Date(),
       });
