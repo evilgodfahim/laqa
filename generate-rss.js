@@ -90,8 +90,109 @@ function scrapeTOB(html, seen, category) {
   return items;
 }
 
+// ===== SCRAPER: THE BUSINESS STANDARD – Features & Thoughts =====
+// Works for:
+//   https://www.tbsnews.net/features
+//   https://www.tbsnews.net/thoughts
+//
+// Framework     : Drupal (custom theme "sloth")
+// Article cards : div.card inside div.view-content.row
+// Link + Title  : h2.card-title a  OR  h3.card-title a  (relative href)
+// Image         : img[data-src] inside <picture> inside div.card-image
+//                 (lazysizes; src is SVG placeholder — discarded)
+// Excerpt       : p.card-intro  (present only on the big lead card)
+// Date          : Not in listing HTML → new Date() fallback
+// Category      : Derived from URL path:
+//                   /thoughts/...              → "Thoughts"
+//                   /features/panorama/...     → "Panorama"
+//                   /features/big-picture/...  → "The Big Picture"
+//                   /features/<other>/...      → title-cased sub-label
+//                   /features/<slug> (no sub)  → "Features"
+
+const TBS_BASE = "https://www.tbsnews.net";
+
+const TBS_SUBCAT_MAP = {
+  "panorama":          "Panorama",
+  "big-picture":       "The Big Picture",
+  "pursuit":           "Pursuit",
+  "habitat":           "Habitat",
+  "tales-from-the-edge": "Tales from the Edge",
+  "mode":              "Mode",
+  "explorer":          "Explorer",
+  "brands":            "Brands",
+  "focus":             "In Focus",
+  "book-review":       "Book Review",
+  "food":              "Food",
+  "luxury":            "Luxury",
+  "wheels":            "Wheels",
+  "humour":            "Humour",
+  "game-reviews":      "Game Reviews",
+  "wealth":            "Wealth",
+};
+
+function getTBSCategory(href) {
+  if (href.startsWith("/thoughts")) return "Thoughts";
+  const m = href.match(/^\/features\/([^/]+)\//);
+  if (m) return TBS_SUBCAT_MAP[m[1]] || "Features";
+  return "Features";
+}
+
+function scrapeTBS(html, seen) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  // Scope to the Drupal view content block to avoid sidebar cards
+  const $view = $("div.view-content");
+
+  $view.find("div.card").each((_, el) => {
+    const $el = $(el);
+
+    // ── Link (from card-image anchor; identical to title anchor) ─────────────
+    const $imgAnchor = $el.find("div.card-image a").first();
+    const rawHref    = ($imgAnchor.attr("href") || "").trim();
+    if (!rawHref) return;
+
+    // Only ingest Features and Thoughts articles
+    if (!rawHref.startsWith("/features") && !rawHref.startsWith("/thoughts")) return;
+
+    const link = rawHref.startsWith("http") ? rawHref : TBS_BASE + rawHref;
+    if (seen.has(link)) return;
+    seen.add(link);
+
+    // ── Title ─────────────────────────────────────────────────────────────────
+    const $titleAnchor = $el.find("h2.card-title a, h3.card-title a").first();
+    const title        = $titleAnchor.text().trim();
+    if (!title) return;
+
+    // ── Image ─────────────────────────────────────────────────────────────────
+    const $img   = $el.find("div.card-image img").first();
+    const imgSrc = ($img.attr("data-src") || $img.attr("src") || "").trim();
+    const image  = (imgSrc && !imgSrc.startsWith("data:")) ? imgSrc : null;
+
+    // ── Excerpt (lead card only) ───────────────────────────────────────────────
+    const excerpt = $el.find("p.card-intro").first().text().trim();
+
+    // ── Category from URL ─────────────────────────────────────────────────────
+    const category = getTBSCategory(rawHref);
+
+    items.push({
+      title,
+      link,
+      description: excerpt,
+      image,
+      date:        new Date(),
+      category,
+      author:      "",
+    });
+  });
+
+  console.log(`  [TBS] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
+  // ── Times of Bangladesh ───────────────────────────────────────────────────
   {
     label:   "Times of Bangladesh – Opinion",
     url:     "https://tob.news/category/opinion/",
@@ -106,6 +207,17 @@ const SOURCES = [
     label:   "Times of Bangladesh – Times Opinion",
     url:     "https://tob.news/author/timesopinion/",
     scraper: (html, seen) => scrapeTOB(html, seen, "Opinion"),
+  },
+  // ── The Business Standard ─────────────────────────────────────────────────
+  {
+    label:   "The Business Standard – Features",
+    url:     "https://www.tbsnews.net/features",
+    scraper: scrapeTBS,
+  },
+  {
+    label:   "The Business Standard – Thoughts",
+    url:     "https://www.tbsnews.net/thoughts",
+    scraper: scrapeTBS,
   },
 ];
 
@@ -148,8 +260,8 @@ function loadExistingItems(filePath) {
 // ===== BUILD XML =====
 function buildFeed(items) {
   const feed = new RSS({
-    title:       "Times of Bangladesh – Opinion",
-    description: "Opinion, editorial and analysis from Times of Bangladesh",
+    title:       "Bangladesh English Press – Opinion, Features & Thoughts",
+    description: "Opinion and features from Times of Bangladesh and The Business Standard",
     feed_url:    "https://tob.news/category/opinion/",
     site_url:    "https://tob.news",
     language:    "en",
