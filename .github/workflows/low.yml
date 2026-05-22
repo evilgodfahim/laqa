@@ -1,0 +1,80 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-rss-feed
+  cancel-in-progress: false
+
+jobs:
+  update-rss:
+    name: Generate and publish RSS feed
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    services:
+      flaresolverr:
+        image: ghcr.io/flaresolverr/flaresolverr:latest
+        ports:
+          - 8191:8191
+        env:
+          LOG_LEVEL: info
+          CAPTCHA_SOLVER: none
+        options: >-
+          --health-cmd "curl -fsS http://localhost:8191/ >/dev/null || exit 1"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 12
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Wait for FlareSolverr
+        run: |
+          echo "Waiting for FlareSolverr..."
+          for i in {1..30}; do
+            if curl -fsS http://localhost:8191/ >/dev/null; then
+              echo "FlareSolverr is ready."
+              exit 0
+            fi
+            echo "Attempt $i/30: not ready yet..."
+            sleep 2
+          done
+          echo "FlareSolverr did not become ready in time."
+          exit 1
+
+      - name: Generate RSS feed
+        env:
+          FLARESOLVERR_URL: http://localhost:8191
+        run: npm start
+
+      - name: Commit and push changes
+        run: |
+          if git diff --quiet -- feeds/feed.xml; then
+            echo "No RSS changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/feed.xml
+          git commit -m "Auto-update RSS feed [skip ci]"
+          git push
