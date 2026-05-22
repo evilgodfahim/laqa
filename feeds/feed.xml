@@ -4,9 +4,9 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 04:56:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 08:19:05 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 04:56:36 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 08:19:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Instant answers, diminished minds]]></title>
@@ -14,7 +14,6 @@
             <link>https://tob.news/instant-answers-diminished-minds/</link>
             <guid isPermaLink="true">https://tob.news/instant-answers-diminished-minds/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Dr. Serajul I. Bhuiyan]]></dc:creator>
             <pubDate>Fri, 22 May 2026 03:30:24 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/ai-education-2.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/ai-education-2.jpg"/>
@@ -25,7 +24,6 @@
             <link>https://tob.news/west-bengals-political-shift-and-the-future-of-regional-diplomacy/</link>
             <guid isPermaLink="true">https://tob.news/west-bengals-political-shift-and-the-future-of-regional-diplomacy/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[M A Matin]]></dc:creator>
             <pubDate>Fri, 22 May 2026 02:30:26 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/bjp-west-bengal-2.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/bjp-west-bengal-2.jpg"/>
@@ -36,7 +34,6 @@
             <link>https://tob.news/digital-accounting-a-pathway-for-bangladeshs-economic-transformation/</link>
             <guid isPermaLink="true">https://tob.news/digital-accounting-a-pathway-for-bangladeshs-economic-transformation/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Abu Taher]]></dc:creator>
             <pubDate>Tue, 19 May 2026 08:27:30 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/digital-accounting.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/digital-accounting.jpg"/>
@@ -47,7 +44,6 @@
             <link>https://tob.news/less-is-more-rethinking-feedback-practices-in-universities/</link>
             <guid isPermaLink="true">https://tob.news/less-is-more-rethinking-feedback-practices-in-universities/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[TIMES Report]]></dc:creator>
             <pubDate>Tue, 19 May 2026 06:30:00 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/feedback-practices.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/feedback-practices.jpg"/>
@@ -1407,8 +1403,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829677</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 22 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Remove obstacles in regenerating electricity from the Khulna Solar power plant]]></title>
@@ -1423,8 +1419,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829415</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 21 May 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond Partisan Lines: The Fight for Bangladesh’s Financial Survival]]></title>
@@ -1432,8 +1428,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829221</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 20 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Are we listening to nature’s warning signs?]]></title>
@@ -1448,8 +1444,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828995</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 19 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Concrete steps needed for conservation of Mahasthangarh from destruction]]></title>
@@ -1464,8 +1460,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828673</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 18 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Fear of rabies: Science-based measures needed to control the disease]]></title>
@@ -1487,8 +1483,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828382</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 17 May 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[AI panic and the return of Marxism]]></title>
