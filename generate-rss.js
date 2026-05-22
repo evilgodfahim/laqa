@@ -331,9 +331,16 @@ function scrapeFinancialExpress(html, seen, catLabel) {
     return items;
   }
 
-  const catData = nuxtData?.fetch?.["CategorySingleParent:0"];
+  // The fetch key varies by section:
+  //   Editorial  → "CategorySingleParent:0"
+  //   Views      → "CategoryViews:0"
+  //   others     → "Category<Name>:0"
+  // Scan for any key matching Category*:0 rather than hardcoding one.
+  const fetchObj = nuxtData?.fetch || {};
+  const catKey   = Object.keys(fetchObj).find(k => /^Category.+:0$/.test(k));
+  const catData  = catKey ? fetchObj[catKey] : null;
   if (!catData) {
-    console.warn(`  [FE/${catLabel}] CategorySingleParent:0 not found in __NUXT__`);
+    console.warn(`  [FE/${catLabel}] No Category*:0 key found in __NUXT__ (keys: ${Object.keys(fetchObj).join(", ")})`);
     return items;
   }
 
@@ -481,7 +488,7 @@ function scrapeFEToday(html, seen, catLabel) {
     seen.add(link);
 
     // prevAll returns siblings in reverse DOM order (nearest first)
-    const title   = $a.prevAll("h2").first().text().trim();
+    const title   = $a.prevAll("h2, h3").first().text().trim();
     const excerpt = $a.prevAll("p").first().text().trim();
 
     if (!title) return;
@@ -605,29 +612,40 @@ function scrapeAsianAgeCategory(html, seen, catLabel) {
 // its parent div.row, take the next sibling div.col-md-12 (the article
 // container), and parse each div.media.asTop within it.
 
-const catH1Text = { 5: "OP-ED", 14: "Editorial" };
-
 function scrapeAsianAgeToday(html, seen, catLabel, catId) {
   const $     = cheerio.load(html);
   const items = [];
 
-  const targetText = catH1Text[catId];
-  if (!targetText) return items;
-
+  // Primary strategy: find named anchor a[name="cat{id}"], walk up 3 levels to
+  // the outer section wrapper, then find all div.media.asTop within it.
+  // This is more reliable than matching h1.comTex text on the live page.
+  //
+  // DOM path from anchor:
+  //   a[name="cat{id}"]
+  //     → parent  div.col-md-12  (inner nav wrapper)
+  //     → parent  div.row        (first row of section)
+  //     → parent  div.col-md-12  (OUTER section container)  ← search here
   let $articleContainer = null;
 
-  $("h1.comTex").each((_, h1) => {
-    const text = $(h1).text().trim();
-    if (!text.startsWith(targetText)) return;
-
-    // h1 → div.col-md-12 → div.row → next sibling → article container
-    const $row   = $(h1).parent().parent(); // div.row containing the h1
-    const $next  = $row.next("div.col-md-12");
-    if ($next.length) {
-      $articleContainer = $next;
-      return false; // break .each()
+  const $anchor = $(`a[name="cat${catId}"]`);
+  if ($anchor.length) {
+    const $outer = $anchor.parent().parent().parent();
+    if ($outer.length && $outer.find("div.media.asTop").length) {
+      $articleContainer = $outer;
     }
-  });
+  }
+
+  // Fallback: match h1.comTex text → row → next col-md-12
+  if (!$articleContainer) {
+    const catH1Map = { 5: "OP-ED", 14: "Editorial" };
+    const targetText = catH1Map[catId] || "";
+    $("h1.comTex").each((_, h1) => {
+      const text = $(h1).text().trim();
+      if (!text.startsWith(targetText)) return;
+      const $next = $(h1).parent().parent().next("div.col-md-12, div.row");
+      if ($next.length) { $articleContainer = $next; return false; }
+    });
+  }
 
   if (!$articleContainer) {
     console.warn(`  [AsianAge-Today/${catLabel}] Section container not found`);
@@ -914,13 +932,23 @@ function buildFeed(items) {
 // ===== MAIN =====
 async function generateRSS() {
   try {
-    const seen     = new Set();
-    let   newItems = [];
+    const seen       = new Set();
+    let   newItems   = [];
+    const fetchCache = new Map(); // avoid duplicate FlareSolverr calls for same URL
 
     for (const source of SOURCES) {
       console.log(`\n--- ${source.label} ---`);
       try {
-        const html  = await fetchWithFlareSolverr(source.url);
+        // Strip fragment (#cat5, #cat14, etc.) for the actual HTTP request
+        const fetchUrl = source.url.split("#")[0];
+        let html;
+        if (fetchCache.has(fetchUrl)) {
+          console.log(`  (using cached HTML for ${fetchUrl})`);
+          html = fetchCache.get(fetchUrl);
+        } else {
+          html = await fetchWithFlareSolverr(fetchUrl);
+          fetchCache.set(fetchUrl, html);
+        }
         const items = source.scraper(html, seen);
         newItems = newItems.concat(items);
       } catch (err) {
