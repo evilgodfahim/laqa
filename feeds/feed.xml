@@ -4,10 +4,63 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 08:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 10:02:52 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 08:19:05 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 10:02:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Beyond subsidies: fixing structural flaws in power and energy sector]]></title>
+            <description><![CDATA[Year after year, the government has been notably generous with subsidies and financial incentives. These supports are spread across various sectors. Key recipients include the energy and power sector, agriculture, and the export oriented industries. These financial interventions are undeniably a cr]]></description>
+            <link>https://thefinancialexpress.com.bd/views/views/beyond-subsidies-fixing-structural-flaws-in-power-and-energy-sector</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/beyond-subsidies-fixing-structural-flaws-in-power-and-energy-sector</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Thu, 21 May 2026 18:00:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Neither democracy nor autocracy can guarantee progress on its own]]></title>
+            <link>https://thefinancialexpress.com.bd/views/views/neither-democracy-nor-autocracy-can-guarantee-progress-on-its-own</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/neither-democracy-nor-autocracy-can-guarantee-progress-on-its-own</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Wed, 20 May 2026 16:55:04 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153889/neither-democracy-nor-autocracy-can-guarantee-progress-on-its-own.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153889/neither-democracy-nor-autocracy-can-guarantee-progress-on-its-own.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reframing economic governance: from tax collection to wealth creation]]></title>
+            <link>https://thefinancialexpress.com.bd/views/views/reframing-economic-governance-from-tax-collection-to-wealth-creation</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/reframing-economic-governance-from-tax-collection-to-wealth-creation</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Tue, 19 May 2026 17:56:31 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153744/reframing-economic-governance-from-tax-collection-to-wealth-creation.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153744/reframing-economic-governance-from-tax-collection-to-wealth-creation.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Crypto payments and blockchain trade finance: where Bangladesh stands]]></title>
+            <link>https://thefinancialexpress.com.bd/views/views/crypto-payments-and-blockchain-trade-finance-where-bangladesh-stands</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/crypto-payments-and-blockchain-trade-finance-where-bangladesh-stands</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Mon, 18 May 2026 20:11:19 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153587/crypto-payments-and-blockchain-trade-finance-where-bangladesh-stands.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153587/crypto-payments-and-blockchain-trade-finance-where-bangladesh-stands.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNCTAD's reflections on investment governance in Bangladesh]]></title>
+            <link>https://thefinancialexpress.com.bd/views/views/unctads-reflections-on-investment-governance-in-bangladesh</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/unctads-reflections-on-investment-governance-in-bangladesh</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Sun, 17 May 2026 17:34:19 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153413/unctads-reflections-on-investment-governance-in-bangladesh.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153413/unctads-reflections-on-investment-governance-in-bangladesh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why are economic sanctions losing their bites?]]></title>
+            <link>https://thefinancialexpress.com.bd/views/views/why-are-economic-sanctions-losing-their-bites</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/why-are-economic-sanctions-losing-their-bites</guid>
+            <category><![CDATA[Views]]></category>
+            <pubDate>Sat, 16 May 2026 17:59:40 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153259/why-are-economic-sanctions-losing-their-bites.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153259/why-are-economic-sanctions-losing-their-bites.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Instant answers, diminished minds]]></title>
             <description><![CDATA[The history of human civilisation is a record of intellectual struggles. Whether in the ancient philosophical arguments of the Greeks or the scientific revolutions…]]></description>
@@ -1403,8 +1456,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829677</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 22 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Remove obstacles in regenerating electricity from the Khulna Solar power plant]]></title>
@@ -1419,8 +1472,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829415</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 21 May 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond Partisan Lines: The Fight for Bangladesh’s Financial Survival]]></title>
@@ -1428,8 +1481,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829221</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 20 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Are we listening to nature’s warning signs?]]></title>
@@ -1444,8 +1497,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828995</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 19 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Concrete steps needed for conservation of Mahasthangarh from destruction]]></title>
@@ -1460,8 +1513,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828673</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 18 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Fear of rabies: Science-based measures needed to control the disease]]></title>
@@ -1483,8 +1536,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828382</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 17 May 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[AI panic and the return of Marxism]]></title>
