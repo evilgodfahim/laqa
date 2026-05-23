@@ -4,17 +4,45 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 23 May 2026 14:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 May 2026 15:57:26 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 23 May 2026 14:55:41 GMT</pubDate>
+        <pubDate>Sat, 23 May 2026 15:57:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Infectious Diseases Hospital: From the School of Tropical Medicine to the ‘Dog-Bite Hospital’]]></title>
+            <description><![CDATA[The aim of the hospital was to isolate and treat patients suffering from deadly infectious diseases such as cholera, smallpox, plague, typhoid, and kala-azar so that the diseases would not spread...]]></description>
+            <link>https://www.tbsnews.net/features/panorama/infectious-diseases-hospital-school-tropical-medicine-dog-bite-hospital-1447021</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/infectious-diseases-hospital-school-tropical-medicine-dog-bite-hospital-1447021</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Sat, 23 May 2026 15:56:25 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/01.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/01.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Should media replace journalists and artists with AI]]></title>
+            <link>https://www.tbsnews.net/features/panorama/should-media-replace-journalists-and-artists-ai-1447006</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/should-media-replace-journalists-and-artists-ai-1447006</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Sat, 23 May 2026 15:56:25 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/ai_in_journalism.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/ai_in_journalism.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Where do children go when society breaks down?]]></title>
+            <description><![CDATA[Bangladesh is not facing only a legal crisis; the deeper rupture lies in its social, moral, and protective foundations.]]></description>
+            <link>https://www.tbsnews.net/thoughts/where-do-children-go-when-society-breaks-down-1446736</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/where-do-children-go-when-society-breaks-down-1446736</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Sat, 23 May 2026 15:56:30 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/15_thoughts_1.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/23/15_thoughts_1.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Zero tolerance against rape and child abuse must begin now]]></title>
             <description><![CDATA[Violence against women and children in Bangladesh has reached a deeply alarming level, leaving the nation gripped by anxiety, anger, and fear. Almost every…]]></description>
             <link>https://tob.news/zero-tolerance-against-rape-and-child-abuse-must-begin-now/</link>
             <guid isPermaLink="true">https://tob.news/zero-tolerance-against-rape-and-child-abuse-must-begin-now/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[TIMES Editorial]]></dc:creator>
             <pubDate>Sat, 23 May 2026 13:30:18 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/child-rape.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/child-rape.jpg"/>
@@ -299,8 +327,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829896</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Weight of unanswered crimes from Sagar-Runi to Ramisa]]></title>
@@ -315,8 +343,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829903</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The burden of waiting for justice]]></title>
@@ -324,8 +352,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829920</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Ensure strict safety oversight of LPG sector]]></title>
@@ -1843,8 +1871,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829677</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 22 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Remove obstacles in regenerating electricity from the Khulna Solar power plant]]></title>
@@ -1859,8 +1887,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829415</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 21 May 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond Partisan Lines: The Fight for Bangladesh’s Financial Survival]]></title>
@@ -1868,8 +1896,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/829221</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 20 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Are we listening to nature’s warning signs?]]></title>
@@ -1884,8 +1912,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828995</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 19 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Concrete steps needed for conservation of Mahasthangarh from destruction]]></title>
@@ -1900,8 +1928,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828673</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 18 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Fear of rabies: Science-based measures needed to control the disease]]></title>
@@ -1923,8 +1951,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/828382</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 17 May 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[AI panic and the return of Marxism]]></title>
