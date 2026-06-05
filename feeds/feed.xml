@@ -4,17 +4,138 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 02:32:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 07:00:24 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 02:32:44 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 07:00:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Marx, the precariat, and limits of the Bangladeshi Left]]></title>
+            <description><![CDATA[Karl Marx was born on the 5th of May, 1818, in Trier, in what was then the Kingdom of Prussia. He died in 1883,…]]></description>
+            <link>https://tob.news/marx-the-precariat-and-limits-of-the-bangladeshi-left/</link>
+            <guid isPermaLink="true">https://tob.news/marx-the-precariat-and-limits-of-the-bangladeshi-left/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[TIMES Editorial]]></dc:creator>
+            <pubDate>Fri, 05 Jun 2026 03:00:54 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/06/karl-marx.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/karl-marx.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budget 2026-27: Proposed priorities and perspectives]]></title>
+            <link>https://www.tbsnews.net/thoughts/budget-2026-27-proposed-priorities-and-perspectives-1454666</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/budget-2026-27-proposed-priorities-and-perspectives-1454666</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:17 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/18/national_budget_0.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/05/18/national_budget_0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antipodean Cafe: A little slice of Melbourne in Dhaka]]></title>
+            <link>https://www.tbsnews.net/features/food/antipodean-cafe-little-slice-melbourne-dhaka-1454641</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/food/antipodean-cafe-little-slice-melbourne-dhaka-1454641</guid>
+            <category><![CDATA[Food]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:17 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/05/_f3a3565.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/05/_f3a3565.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Heatwaves: A growing concern for Bangladesh]]></title>
+            <description><![CDATA[Bangladesh is among the countries that are most susceptible as well as affected by extremes of climate change, including heatwaves due to global warming]]></description>
+            <link>https://www.tbsnews.net/thoughts/heatwaves-growing-concern-bangladesh-1454671</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/heatwaves-growing-concern-bangladesh-1454671</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:23 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2023/11/24/heatwave_dhaka_.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2023/11/24/heatwave_dhaka_.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Driving the energy transition, debunking climate mitigation myths]]></title>
+            <link>https://www.tbsnews.net/thoughts/driving-energy-transition-debunking-climate-mitigation-myths-1454661</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/driving-energy-transition-debunking-climate-mitigation-myths-1454661</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:23 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/07/16/shafiqul_alam.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2022/07/16/shafiqul_alam.png"/>
+        </item>
+        <item>
+            <title><![CDATA[The planet is sending danger signals. Can you hear?]]></title>
+            <link>https://www.tbsnews.net/thoughts/planet-sending-danger-signals-can-you-hear-1454646</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/planet-sending-danger-signals-can-you-hear-1454646</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:23 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/05/titu-dutta.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/05/titu-dutta.png"/>
+        </item>
+        <item>
+            <title><![CDATA[One planet, one chance: Why climate action can no longer wait]]></title>
+            <link>https://www.tbsnews.net/thoughts/one-planet-one-chance-why-climate-action-can-no-longer-wait-1454631</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/one-planet-one-chance-why-climate-action-can-no-longer-wait-1454631</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:23 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/12/16/sadia-islam1.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2020/12/16/sadia-islam1.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Absence of Peace and Stability Baffles Progress Worldwide]]></title>
+            <description><![CDATA[Peace and stability are essential for the progress]]></description>
+            <link>https://dailyasianage.com/news/352938/absence-of-peace-and-stability-baffles-progress-worldwide</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352938/absence-of-peace-and-stability-baffles-progress-worldwide</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Every Child Has Rights to Grow Up With Safety and Support]]></title>
+            <description><![CDATA[Child abuse is one of the most serious social problems in the]]></description>
+            <link>https://dailyasianage.com/news/352937/every-child-has-rights-to-grow-up-with-safety-and-support</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352937/every-child-has-rights-to-grow-up-with-safety-and-support</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Confronting the Danger of a Warming World]]></title>
+            <description><![CDATA[Dr Kanan Purkayastha]]></description>
+            <link>https://dailyasianage.com/news/352936/confronting-the-danger-of-a-warming-world</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352936/confronting-the-danger-of-a-warming-world</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:54 GMT</pubDate>
+            <media:content url="data:image/webp;base64,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" medium="image"/>
+            <media:thumbnail url="data:image/webp;base64,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"/>
+        </item>
+        <item>
+            <title><![CDATA[Conflict in Ukraine Remains Unresolved Though Four Years Have Passed]]></title>
+            <description><![CDATA[Rifat Rafique Badhan]]></description>
+            <link>https://dailyasianage.com/news/352935/conflict-in-ukraine-remains-unresolved-though-four-years-have-passed</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352935/conflict-in-ukraine-remains-unresolved-though-four-years-have-passed</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Fri, 05 Jun 2026 06:59:54 GMT</pubDate>
+            <media:content url="https://dailyasianage.com/library/small_1780630321_1.jpg" medium="image"/>
+            <media:thumbnail url="https://dailyasianage.com/library/small_1780630321_1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Proposals for National Budget: From Revenue Collection to Inclusive Well-Being]]></title>
+            <description><![CDATA[Dr. Muhammad Mahboob Ali]]></description>
+            <link>https://dailyasianage.com/news/352934/proposals-for-national-budget-from-revenue-collection-to-inclusive-well-being</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352934/proposals-for-national-budget-from-revenue-collection-to-inclusive-well-being</guid>
+            <category><![CDATA[OP-ED]]></category>
+            <pubDate>Fri, 05 Jun 2026 07:00:06 GMT</pubDate>
+            <media:content url="https://dailyasianage.com/library/small_1780630257_5.jpg" medium="image"/>
+            <media:thumbnail url="https://dailyasianage.com/library/small_1780630257_5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can Bangladesh Build a Humanitarian Fund Without Burdening the Poor?]]></title>
+            <description><![CDATA[Dr. Rahul Mathew]]></description>
+            <link>https://dailyasianage.com/news/352933/can-bangladesh-build-a-humanitarian-fund-without-burdening-the-poor</link>
+            <guid isPermaLink="true">https://dailyasianage.com/news/352933/can-bangladesh-build-a-humanitarian-fund-without-burdening-the-poor</guid>
+            <category><![CDATA[OP-ED]]></category>
+            <pubDate>Fri, 05 Jun 2026 07:00:06 GMT</pubDate>
+            <media:content url="https://dailyasianage.com/library/100xNxsmall_1780630188_4.jpg.pagespeed.ic.Tok0h-vTHT.webp" medium="image"/>
+            <media:thumbnail url="https://dailyasianage.com/library/100xNxsmall_1780630188_4.jpg.pagespeed.ic.Tok0h-vTHT.webp"/>
+        </item>
         <item>
             <title><![CDATA[A stable nation, a strong future]]></title>
             <description><![CDATA[Political stability is one of the most essential conditions for the survival, security, and progress of a nation. No country can achieve long-term economic…]]></description>
             <link>https://tob.news/a-stable-nation-a-strong-future/</link>
             <guid isPermaLink="true">https://tob.news/a-stable-nation-a-strong-future/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[M A Matin]]></dc:creator>
             <pubDate>Fri, 05 Jun 2026 02:30:28 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/06/bangladesh-politics.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/bangladesh-politics.jpg"/>
@@ -180,8 +301,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/832057</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 05 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-2.jpg?fit=683%2C337&amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-2.jpg?fit=683%2C337&amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-2.jpg?fit=683%2C337&amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-2.jpg?fit=683%2C337&amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The UN in Bangladesh: Partner, observer, or political actor?]]></title>
@@ -499,8 +620,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/831802</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 04 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-1.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-1.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-1.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-1.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The scent of death, not love, echoes from a mother’s room]]></title>
@@ -631,8 +752,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/831540</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 03 Jun 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-1.jpg?fit=720%2C442&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-1.jpg?fit=720%2C442&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-1.jpg?fit=720%2C442&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-1.jpg?fit=720%2C442&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Measles not coming under control: Treatment needs to be expanded]]></title>
@@ -1142,8 +1263,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/831330</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 02 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1.jpg?fit=344%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1.jpg?fit=344%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1.jpg?fit=344%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1.jpg?fit=344%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[War of remote control: How CNN changed the world]]></title>
@@ -1305,8 +1426,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/831087</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 01 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-31.jpg?fit=688%2C417&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-31.jpg?fit=688%2C417&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-31.jpg?fit=688%2C417&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-31.jpg?fit=688%2C417&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Violence against Women: A silent crisis we can no longer ignore]]></title>
@@ -1314,8 +1435,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/831088</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 01 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-20.jpg?fit=720%2C384&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-20.jpg?fit=720%2C384&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-20.jpg?fit=720%2C384&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-20.jpg?fit=720%2C384&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Investing in skills for an AI-driven future]]></title>
@@ -1792,8 +1913,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/830678</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 26 May 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-30.jpg?fit=602%2C283&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-30.jpg?fit=602%2C283&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-30.jpg?fit=602%2C283&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-30.jpg?fit=602%2C283&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[She powers Bangladesh’s exports, but banks never knew her name]]></title>
@@ -2101,8 +2222,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/830460</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 25 May 2026 00:58:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-29.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-29.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-29.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-29.jpg?fit=256%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Stimulus package needs strict oversight]]></title>
@@ -2380,8 +2501,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/830224</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 24 May 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-28.jpg?fit=684%2C364&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-28.jpg?fit=684%2C364&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-28.jpg?fit=684%2C364&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-28.jpg?fit=684%2C364&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[WB suggestion for SMEs reforms needed to redirect funds for development]]></title>
@@ -2775,8 +2896,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829896</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-27.jpg?fit=684%2C411&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Weight of unanswered crimes from Sagar-Runi to Ramisa]]></title>
@@ -2791,8 +2912,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829903</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-2-18.jpg?fit=598%2C339&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The burden of waiting for justice]]></title>
@@ -2800,8 +2921,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829920</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 23 May 2026 00:59:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-3-7.jpg?fit=598%2C285&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Ensure strict safety oversight of LPG sector]]></title>
@@ -4319,8 +4440,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829677</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 22 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-26.jpg?fit=344%2C193&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Remove obstacles in regenerating electricity from the Khulna Solar power plant]]></title>
@@ -4335,8 +4456,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829415</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 21 May 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-24.jpg?fit=256%2C327&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond Partisan Lines: The Fight for Bangladesh’s Financial Survival]]></title>
@@ -4344,8 +4465,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/829221</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 20 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-23.jpg?fit=432%2C204&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Are we listening to nature’s warning signs?]]></title>
@@ -4360,8 +4481,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/828995</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 19 May 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-21.jpg?fit=516%2C227&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Concrete steps needed for conservation of Mahasthangarh from destruction]]></title>
@@ -4376,8 +4497,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/828673</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 18 May 2026 00:49:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-20.jpg?fit=684%2C385&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Fear of rabies: Science-based measures needed to control the disease]]></title>
@@ -4399,8 +4520,8 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <guid isPermaLink="true">https://dailynewnation.com/news/828382</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 17 May 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/05/5-1-18.jpg?fit=430%2C286&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[AI panic and the return of Marxism]]></title>
@@ -4441,56 +4562,6 @@ Dhaka is often called the most crowded city, the traffic capital or th]]></descr
             <pubDate>Tue, 19 May 2026 03:30:17 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/05/usa-china.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/usa-china.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One shaky step for a man, a giant embarrassment for a nation]]></title>
-            <description><![CDATA[Donald Trump did not expect he would face real cool and clever (almost naughty) diplomacy…]]></description>
-            <link>https://tob.news/one-shaky-step-for-a-man-a-giant-embarrassment-for-a-nation/</link>
-            <guid isPermaLink="true">https://tob.news/one-shaky-step-for-a-man-a-giant-embarrassment-for-a-nation/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Tue, 19 May 2026 02:30:58 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/05/trump-xi-1.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/trump-xi-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why literature matters more in the age of STEM]]></title>
-            <description><![CDATA[At almost every family gathering in Bangladesh, there is a familiar conversation. One student studies…]]></description>
-            <link>https://tob.news/why-literature-matters-more-in-the-age-of-stem/</link>
-            <guid isPermaLink="true">https://tob.news/why-literature-matters-more-in-the-age-of-stem/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Mon, 18 May 2026 09:23:00 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/05/literature.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/literature.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Humanity beyond politics: What Karina Kaiser’s death reveals about us]]></title>
-            <description><![CDATA[Notable internet personality, writer and actor Karina Kaiser’s death from liver failure should have been…]]></description>
-            <link>https://tob.news/humanity-beyond-politics-what-karina-kaisers-death-reveals-about-us/</link>
-            <guid isPermaLink="true">https://tob.news/humanity-beyond-politics-what-karina-kaisers-death-reveals-about-us/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Mon, 18 May 2026 06:51:13 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/05/Karina.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/Karina.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How Bangladesh’s new democracy is courting old demons]]></title>
-            <description><![CDATA[When the effective breakdown of the AL government in August 2024 wept across the country,…]]></description>
-            <link>https://tob.news/how-bangladeshs-new-democracy-is-courting-old-demons/</link>
-            <guid isPermaLink="true">https://tob.news/how-bangladeshs-new-democracy-is-courting-old-demons/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Mon, 18 May 2026 04:55:14 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/05/bangladesh-political-1.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/bangladesh-political-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dali mask and digital youth: Politics of Emotion in ‘Money Heist’]]></title>
-            <description><![CDATA[Very few cultural symbols in world history have transcended the boundaries of cinema or art…]]></description>
-            <link>https://tob.news/dali-mask-and-digital-youth-politics-of-emotion-in-money-heist/</link>
-            <guid isPermaLink="true">https://tob.news/dali-mask-and-digital-youth-politics-of-emotion-in-money-heist/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Mon, 18 May 2026 05:01:57 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/05/dali-mask.png" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/dali-mask.png"/>
         </item>
     </channel>
 </rss>
