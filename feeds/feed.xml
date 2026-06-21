@@ -4,17 +4,36 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 09:37:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 12:06:33 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 09:37:08 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 12:06:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Honda NX200 finds a home with a Honda loyalist]]></title>
+            <description><![CDATA[Honda NX200 has the stance of an adventure tourer, the reliability promise of Honda, and a feature list that makes it stand out among similarly priced motorcycles]]></description>
+            <link>https://www.tbsnews.net/features/wheels/honda-nx200-finds-home-honda-loyalist-1468521</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/wheels/honda-nx200-finds-home-honda-loyalist-1468521</guid>
+            <category><![CDATA[Wheels]]></category>
+            <pubDate>Sun, 21 Jun 2026 12:05:51 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/21/img_4341_1.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/21/img_4341_1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A tale of two duck shooting trips: Origins of US Fed and Bangladesh genocide]]></title>
+            <description><![CDATA[Drawing lessons from the secret duck-hunting trip that birthed the US Fed and the dark Pakistan’s Larkana conspiracy of 1971, this piece explores how intention shapes financial reality as 36...]]></description>
+            <link>https://www.tbsnews.net/thoughts/tale-two-duck-shooting-trips-origins-us-fed-and-bangladesh-genocide-1468596</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/tale-two-duck-shooting-trips-origins-us-fed-and-bangladesh-genocide-1468596</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Sun, 21 Jun 2026 12:05:55 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/21/feature.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/06/21/feature.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Through youth’s eyes: China’s practical solutions inspire visions for Bangladesh’s future]]></title>
             <description><![CDATA[In recent days, a new group of Bangladeshi youth and women representatives – averaging under 35 years of age – has quietly emerged as…]]></description>
             <link>https://tob.news/through-youths-eyes-chinas-practical-solutions-inspire-visions-for-bangladeshs-future/</link>
             <guid isPermaLink="true">https://tob.news/through-youths-eyes-chinas-practical-solutions-inspire-visions-for-bangladeshs-future/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[TIMES Editorial]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 06:00:02 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/06/Bangladeshi_Delegation.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/Bangladeshi_Delegation.jpg"/>
@@ -25,7 +44,6 @@
             <link>https://tob.news/july-2024-internet-shutdown/</link>
             <guid isPermaLink="true">https://tob.news/july-2024-internet-shutdown/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[M S Siddiqui]]></dc:creator>
             <pubDate>Sun, 21 Jun 2026 05:54:45 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/06/bd-internet-shutdown.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/bd-internet-shutdown.jpg"/>
@@ -260,8 +278,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/836331</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 21 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-17.jpg?fit=256%2C311&amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-17.jpg?fit=256%2C311&amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-17.jpg?fit=256%2C311&amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-17.jpg?fit=256%2C311&amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Governing an interdependent world]]></title>
@@ -269,8 +287,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/836332</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 21 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-13.jpg?fit=256%2C293&amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-13.jpg?fit=256%2C293&amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-13.jpg?fit=256%2C293&amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-13.jpg?fit=256%2C293&amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A warming nation at risk]]></title>
@@ -285,8 +303,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/836334</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 21 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-9.jpg?fit=256%2C321&amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-9.jpg?fit=256%2C321&amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-9.jpg?fit=256%2C321&amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-9.jpg?fit=256%2C321&amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Why public and private universities must be partners, not rivals]]></title>
@@ -813,8 +831,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/836064</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 20 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-15.jpg?fit=720%2C447&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-15.jpg?fit=720%2C447&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-15.jpg?fit=720%2C447&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-15.jpg?fit=720%2C447&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Education for an enlightened future]]></title>
@@ -822,8 +840,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/836066</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 20 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-12.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-12.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-12.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-12.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Quality education begins with quality teachers]]></title>
@@ -831,8 +849,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/836068</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 20 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-4-9.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-4-9.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-4-9.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-4-9.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Why containing measles remains elusive]]></title>
@@ -1203,8 +1221,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835806</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 19 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-15.jpg?fit=256%2C317&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-15.jpg?fit=256%2C317&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-15.jpg?fit=256%2C317&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-15.jpg?fit=256%2C317&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Budget FY27: A shift towards pro-people economy]]></title>
@@ -1212,8 +1230,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835807</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 19 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-11.jpg?fit=256%2C323&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-11.jpg?fit=256%2C323&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-11.jpg?fit=256%2C323&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-11.jpg?fit=256%2C323&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rise in aggressive behaviour]]></title>
@@ -1228,8 +1246,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835810</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 19 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-7.jpg?fit=256%2C320&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-7.jpg?fit=256%2C320&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-7.jpg?fit=256%2C320&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-3-7.jpg?fit=256%2C320&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[End the violence against women and children]]></title>
@@ -1571,8 +1589,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835608</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 17 Jun 2026 22:17:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-14.jpg?fit=256%2C274&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-14.jpg?fit=256%2C274&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-14.jpg?fit=256%2C274&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-14.jpg?fit=256%2C274&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Budget and teaching third language]]></title>
@@ -1580,8 +1598,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835609</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 17 Jun 2026 22:17:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-13.jpg?fit=256%2C322&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-13.jpg?fit=256%2C322&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-13.jpg?fit=256%2C322&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-13.jpg?fit=256%2C322&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Urbanisation and inclusive development]]></title>
@@ -1596,8 +1614,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835612</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 17 Jun 2026 22:17:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-10.jpg?fit=684%2C449&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-10.jpg?fit=684%2C449&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-10.jpg?fit=684%2C449&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-10.jpg?fit=684%2C449&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Saving elephants means saving Bangladesh's forests]]></title>
@@ -1782,8 +1800,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835389</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 17 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-13.jpg?fit=256%2C305&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-13.jpg?fit=256%2C305&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-13.jpg?fit=256%2C305&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-13.jpg?fit=256%2C305&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Driving Sustainable Banking in Bangladesh: HR Transformed into a Strategic Partner at Premier Bank PLC]]></title>
@@ -1791,8 +1809,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835390</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 17 Jun 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-10.jpg?fit=256%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-10.jpg?fit=256%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-10.jpg?fit=256%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-10.jpg?fit=256%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rebuilding Bangladesh’s economic growth momentum]]></title>
@@ -2108,8 +2126,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835081</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 16 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-12.jpg?fit=512%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-12.jpg?fit=512%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-12.jpg?fit=512%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-1-12.jpg?fit=512%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Global Civilisation Initiative and the Path to a Shared Future]]></title>
@@ -2117,8 +2135,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/835085</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 16 Jun 2026 00:51:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-9.jpg?fit=432%2C288&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-9.jpg?fit=432%2C288&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-9.jpg?fit=432%2C288&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/4-2-9.jpg?fit=432%2C288&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The heat has escalated, yet our preparedness has not]]></title>
@@ -2398,8 +2416,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834872</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 15 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-11.jpg?fit=430%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-11.jpg?fit=430%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-11.jpg?fit=430%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-11.jpg?fit=430%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[When Money Serves Humanity]]></title>
@@ -2407,8 +2425,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834873</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 15 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-10.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-10.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-10.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-10.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Heroes and architects: Why reward systems shape organisational sustainability]]></title>
@@ -2765,8 +2783,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834545</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 14 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-9.jpg?fit=688%2C301&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-9.jpg?fit=688%2C301&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-9.jpg?fit=688%2C301&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-9.jpg?fit=688%2C301&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Take Criticisms into account on the proposed budget]]></title>
@@ -2781,8 +2799,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834544</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 14 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-10.jpg?fit=700%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-10.jpg?fit=700%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-10.jpg?fit=700%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-10.jpg?fit=700%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Closing Ad-din not the answer]]></title>
@@ -3121,8 +3139,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834254</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 13 Jun 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-9.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-9.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-9.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-9.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[June Geopolitics: Bangladesh faces a new test of strategic reality]]></title>
@@ -3130,8 +3148,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834259</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 13 Jun 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-8.jpg?fit=688%2C516&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-8.jpg?fit=688%2C516&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-8.jpg?fit=688%2C516&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-2-8.jpg?fit=688%2C516&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rethinking what it means to honour our aging parents]]></title>
@@ -3139,8 +3157,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834262</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 13 Jun 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-7.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-7.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-7.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-3-7.jpg?fit=688%2C387&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A budget built for a decade, not just a year]]></title>
@@ -3392,8 +3410,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/834003</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 12 Jun 2026 00:55:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-8.jpg?fit=427%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-8.jpg?fit=427%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-8.jpg?fit=427%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-8.jpg?fit=427%2C258&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Stimulus for closed factories well-intentioned, but meeting eligibility difficult]]></title>
@@ -4082,8 +4100,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/833407</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 10 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-7.jpg?fit=683%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-7.jpg?fit=683%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-7.jpg?fit=683%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-7.jpg?fit=683%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Not just AI – let the eyes of conscience also be vigilant]]></title>
@@ -4368,8 +4386,8 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <guid isPermaLink="true">https://dailynewnation.com/news/833120</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 09 Jun 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-6.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-6.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-6.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/06/5-1-6.jpg?fit=427%2C427&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Winning the UNGA Presidency: A proud moment for Bangladesh]]></title>
@@ -4530,26 +4548,6 @@ Recently, I travelled from Dhaka to Daudkandi and r]]></description>
             <pubDate>Mon, 08 Jun 2026 04:12:11 GMT</pubDate>
             <media:content url="data:image/webp;base64,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" medium="image"/>
             <media:thumbnail url="data:image/webp;base64,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"/>
-        </item>
-        <item>
-            <title><![CDATA[Points and Counterpoints of  Buying JF 17 Fighter Jets]]></title>
-            <description><![CDATA[When a training aircraft of the Pakistan Air]]></description>
-            <link>https://dailyasianage.com/news/353072/points-and-counterpoints-of--buying-jf-17-fighter-jets</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/353072/points-and-counterpoints-of--buying-jf-17-fighter-jets</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Mon, 08 Jun 2026 04:12:23 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/395xNxsmall_1780884082_3.jpg.pagespeed.ic.9184rot7AX.webp" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/395xNxsmall_1780884082_3.jpg.pagespeed.ic.9184rot7AX.webp"/>
-        </item>
-        <item>
-            <title><![CDATA[How Drug Abuse Fuels Crime and Social Instability]]></title>
-            <description><![CDATA[MD. Noor Hamza Peash]]></description>
-            <link>https://dailyasianage.com/news/353071/how-drug-abuse-fuels-crime-and-social-instability</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/353071/how-drug-abuse-fuels-crime-and-social-instability</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Mon, 08 Jun 2026 04:12:23 GMT</pubDate>
-            <media:content url="data:image/webp;base64,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" medium="image"/>
-            <media:thumbnail url="data:image/webp;base64,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"/>
         </item>
     </channel>
 </rss>
