@@ -4,10 +4,73 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 23 Aug 2026 18:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Aug 2026 19:17:14 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 23 Aug 2026 18:16:38 GMT</pubDate>
+        <pubDate>Sun, 23 Aug 2026 19:17:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIMES INTERVIEW/Yield curve shifts downward, stock correction temporary]]></title>
+            <link>https://tob.news/yield-curve-shifts-downward-stock-correction-temporary/</link>
+            <guid isPermaLink="true">https://tob.news/yield-curve-shifts-downward-stock-correction-temporary/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Sun, 23 Aug 2026 18:45:54 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/08/Shekh-Mohammad-Rashedul-Hasan.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Shekh-Mohammad-Rashedul-Hasan.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Socio-political and economic philosophy of democratic trade union movement]]></title>
+            <description><![CDATA[The democratic trade union movement is recognised as a fundamental pillar in protecting workers’ rights,…]]></description>
+            <link>https://tob.news/socio-political-and-economic-philosophy-of-democratic-trade-union-movement/</link>
+            <guid isPermaLink="true">https://tob.news/socio-political-and-economic-philosophy-of-democratic-trade-union-movement/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[TIMES Editorial]]></dc:creator>
+            <pubDate>Thu, 20 Aug 2026 03:30:43 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/08/ituc.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/ituc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10-man Atletico snatch Villarreal draw]]></title>
+            <link>https://tob.news/10-man-atletico-snatch-villarreal-draw/</link>
+            <guid isPermaLink="true">https://tob.news/10-man-atletico-snatch-villarreal-draw/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Sun, 23 Aug 2026 18:30:18 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/08/Athletico-Madrid.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Athletico-Madrid.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aamra Networks, Earth fined for bypassing NTTN rules]]></title>
+            <link>https://tob.news/aamra-networks-earth-fined-for-bypassing-nttn-rules/</link>
+            <guid isPermaLink="true">https://tob.news/aamra-networks-earth-fined-for-bypassing-nttn-rules/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Sun, 23 Aug 2026 19:10:37 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/08/Aamra-Earth.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Aamra-Earth.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Space Militarisation and The New Strategic Frontier]]></title>
+            <link>https://dailynewnation.com/news/851447</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/851447</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:56:00 GMT</pubDate>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-22.jpg?fit=720%2C352&amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-22.jpg?fit=720%2C352&amp;ssl=1"/>
+        </item>
+        <item>
+            <title><![CDATA[The Real Crisis Is Not Electricity, But Energy]]></title>
+            <link>https://dailynewnation.com/news/851448</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/851448</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:56:00 GMT</pubDate>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-18.jpg?fit=720%2C341&amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-18.jpg?fit=720%2C341&amp;ssl=1"/>
+        </item>
+        <item>
+            <title><![CDATA[Sustainable implementation needed to develop 20 ‘model canals’ in 8 divisions]]></title>
+            <link>https://dailynewnation.com/news/851446</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/851446</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Mon, 24 Aug 2026 00:56:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Entire family killed in Rangpur home]]></title>
             <link>https://tob.news/entire-family-killed-in-rangpur-home/</link>
@@ -235,8 +298,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/850567</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 20 Aug 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-18.jpg?fit=180%2C180&amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-18.jpg?fit=180%2C180&amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-18.jpg?fit=180%2C180&amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-18.jpg?fit=180%2C180&amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh Diaspora For National Development: The Way Forward]]></title>
@@ -244,8 +307,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/850568</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 20 Aug 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-15.jpg?fit=172%2C269&amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-15.jpg?fit=172%2C269&amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-15.jpg?fit=172%2C269&amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-15.jpg?fit=172%2C269&amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Army brig gen, two police DIGs appointed NSI directors]]></title>
@@ -457,8 +520,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/850404</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 19 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-14.jpg?fit=476%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-14.jpg?fit=476%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-14.jpg?fit=476%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-14.jpg?fit=476%2C256&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Dolly Johur may face questions over Salman Shah murder]]></title>
@@ -691,8 +754,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/850403</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 19 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-17.jpg?fit=446%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-17.jpg?fit=446%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-17.jpg?fit=446%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-17.jpg?fit=446%2C241&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Local govt polls to be held on time following rules: Moyeen]]></title>
@@ -1342,8 +1405,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/851222</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 23 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-21.jpg?fit=448%2C244&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-21.jpg?fit=448%2C244&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-21.jpg?fit=448%2C244&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-21.jpg?fit=448%2C244&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The Right to Know Must Also Mean the Right to Accurate Information]]></title>
@@ -1351,8 +1414,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/851223</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 23 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Cabinet reshuffle: Tarique walks the old path]]></title>
@@ -2461,8 +2524,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/851007</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 22 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-20.jpg?fit=500%2C297&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-20.jpg?fit=500%2C297&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-20.jpg?fit=500%2C297&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-20.jpg?fit=500%2C297&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond the vaccine: Why is measles still spreading?]]></title>
@@ -2470,8 +2533,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/851009</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 22 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-7.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-7.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-7.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-7.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[CSE introduces EDU students to capital markets]]></title>
@@ -3561,8 +3624,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/850800</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 21 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-19.jpg?fit=692%2C437&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-19.jpg?fit=692%2C437&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-19.jpg?fit=692%2C437&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-19.jpg?fit=692%2C437&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[When Rehabilitation Centres Become Torture Chambers]]></title>
@@ -4439,73 +4502,6 @@
             <pubDate>Thu, 20 Aug 2026 04:30:06 GMT</pubDate>
             <media:content url="https://dailyasianage.com/library/small_1787199294_3.jpg" medium="image"/>
             <media:thumbnail url="https://dailyasianage.com/library/small_1787199294_3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When the Walls Turn Against Us]]></title>
-            <description><![CDATA[Anika Raisa]]></description>
-            <link>https://dailyasianage.com/news/356757/when-the-walls-turn-against-us</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/356757/when-the-walls-turn-against-us</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Thu, 20 Aug 2026 04:30:06 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1787199207_0.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1787199207_0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Dhaka Can No Longer Afford to Dismiss the UN’s AQIS Warning]]></title>
-            <description><![CDATA[In the intricate theater of geopolitics and national]]></description>
-            <link>https://dailyasianage.com/news/356756/why-dhaka-can-no-longer-afford-to-dismiss-the-uns-aqis-warning</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/356756/why-dhaka-can-no-longer-afford-to-dismiss-the-uns-aqis-warning</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Thu, 20 Aug 2026 04:30:20 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1787198200_3.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1787198200_3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Egyptian Cuisines Rise from Ashes to Regain Fame]]></title>
-            <description><![CDATA[Donna Patricia]]></description>
-            <link>https://dailyasianage.com/news/356755/egyptian-cuisines-rise-from-ashes-to-regain-fame</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/356755/egyptian-cuisines-rise-from-ashes-to-regain-fame</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Thu, 20 Aug 2026 04:30:20 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1787197708_7.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1787197708_7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 Specialised children's hospitals: Ensure timely opening, sustainable operation]]></title>
-            <link>https://bangladeshpost.net/posts/5-specialised-children-s-hospitals-ensure-timely-opening-sustainable-operation-170256</link>
-            <guid isPermaLink="true">https://bangladeshpost.net/posts/5-specialised-children-s-hospitals-ensure-timely-opening-sustainable-operation-170256</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Thu, 20 Aug 2026 04:30:42 GMT</pubDate>
-            <media:content url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-06/6a37f07e6e653.jpg" medium="image"/>
-            <media:thumbnail url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-06/6a37f07e6e653.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Messi scores against Philadelphia as Inter Miami end losing run]]></title>
-            <link>https://tob.news/messi-scores-against-philadelphia-as-inter-miami-end-losing-run/</link>
-            <guid isPermaLink="true">https://tob.news/messi-scores-against-philadelphia-as-inter-miami-end-losing-run/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Thu, 20 Aug 2026 03:25:02 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/Lionel-Messi-scores-Philadelphia.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Lionel-Messi-scores-Philadelphia.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trump warns ‘tremendous’ costs for Iran partners]]></title>
-            <link>https://tob.news/trump-warns-tremendous-costs-for-iran-partners/</link>
-            <guid isPermaLink="true">https://tob.news/trump-warns-tremendous-costs-for-iran-partners/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Thu, 20 Aug 2026 03:08:47 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/07/trump-3.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/07/trump-3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh needs an army that knows where its power ends]]></title>
-            <description><![CDATA[Bangladesh must stop asking its army to rescue politics and start building institutions that don’t need rescuing. The army helped liberate Bangladesh in 1971.…]]></description>
-            <link>https://tob.news/bangladesh-needs-an-army-that-knows-where-its-power-ends/</link>
-            <guid isPermaLink="true">https://tob.news/bangladesh-needs-an-army-that-knows-where-its-power-ends/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Thu, 20 Aug 2026 02:45:52 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/bangladesh-military.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/bangladesh-military.jpg"/>
         </item>
     </channel>
 </rss>
