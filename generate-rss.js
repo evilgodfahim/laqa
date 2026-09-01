@@ -43,22 +43,17 @@ function scrapeTOB(html, seen, category) {
     const title = $a.text().trim();
     if (!title) return;
 
-    // Scope to enclosing <article> or fallback to .post-meta wrapper
     const $card = $a.closest("article").length ? $a.closest("article") : $a.closest(".post-meta");
 
-    // ── Image (data-src or fallback to src) ───────────────────────────────────
     const $img  = $card.find("div.media img, img.wp-post-image").first();
     const image = ($img.attr("data-src") || $img.attr("src") || "").trim();
     const finalImage = (image && !image.startsWith("data:")) ? image : null;
 
-    // ── Date ──────────────────────────────────────────────────────────────────
     const datetime = ($card.find("time.post-date").first().attr("datetime") || "").trim();
     const date     = datetime ? new Date(datetime) : new Date();
 
-    // ── Author ────────────────────────────────────────────────────────────────
     const author = $card.find("span.meta-item.post-author a").first().text().trim() || "";
 
-    // ── Excerpt ───────────────────────────────────────────────────────────────
     const excerpt = $card.find("div.excerpt p").first().text().trim();
 
     seen.add(link);
@@ -151,7 +146,7 @@ function scrapeTBS(html, seen) {
   return items;
 }
 
-// ===== SCRAPER: NEW AGE BD =====
+// ===== SCRAPER: NEW AGE BD (old listing format) =====
 const NA_BASE = "https://www.newagebd.net";
 
 function getNewAgeCategory(href) {
@@ -204,6 +199,55 @@ function scrapeNewAge(html, seen) {
   return items;
 }
 
+// ===== SCRAPER: NEW AGE BD (section listing pages: Editorial/OP-ED) =====
+function scrapeNewAgeSection(html, seen, catLabel) {
+  const $     = cheerio.load(html);
+  const items = [];
+
+  function addItem(href, title, desc, date) {
+    if (!href) return;
+    const link = href.startsWith("http") ? href : NA_BASE + href;
+    if (seen.has(link)) return;
+    if (!title) return;
+    seen.add(link);
+    items.push({
+      title,
+      link,
+      description: desc  || "",
+      image:       null,
+      date:        date  || new Date(),
+      category:    catLabel,
+      author:      "",
+    });
+  }
+
+  // ── Featured lead ────────────────────────────────────────────────────────
+  const $lead = $("article.med-lead.hov").first();
+  if ($lead.length) {
+    const $a = $lead.find("h3.fs-headline a").first();
+    addItem($a.attr("href"), $a.text().trim(), "", new Date());
+  }
+
+  // ── Featured side articles ───────────────────────────────────────────────
+  $("article.med-g4 article.hov").each((_, el) => {
+    const $a = $(el).find("h3 a.fs-sub-headline-2").first();
+    addItem($a.attr("href"), $a.text().trim(), "", new Date());
+  });
+
+  // ── Regular cards ────────────────────────────────────────────────────────
+  $("article.card.card-full.hover-a.mb-module.mb-md-5").each((_, el) => {
+    const $el   = $(el);
+    const $a    = $el.find("h2.card-title a").first();
+    const desc  = $el.find("p.card-text.mb-2.d-none.d-lg-block").first().text().trim();
+    const rawDt = $el.find("time[datetime]").first().attr("datetime") || "";
+    const date  = rawDt ? new Date(rawDt) : new Date();
+    addItem($a.attr("href"), $a.text().trim(), desc, date);
+  });
+
+  console.log(`  [NewAge/${catLabel}] Scraped ${items.length} articles`);
+  return items;
+}
+
 // ===== SCRAPER: THE FINANCIAL EXPRESS =====
 const FE_BASE = "https://thefinancialexpress.com.bd";
 
@@ -212,7 +256,6 @@ function scrapeFinancialExpress(html, seen, catLabel) {
   const items = [];
   let   nuxtData;
 
-  // ── 1. Try extracting via window.__NUXT__ ─────────────────────────────────
   $("script").each((_, el) => {
     const raw = $(el).html() || "";
     if (!raw.includes("window.__NUXT__")) return;
@@ -262,7 +305,6 @@ function scrapeFinancialExpress(html, seen, catLabel) {
     }
   }
 
-  // ── 2. Fallback: Parse HTML DOM directly if __NUXT__ failed or was empty ──
   if (items.length === 0) {
     $("article").each((_, el) => {
       const $el = $(el);
@@ -552,24 +594,26 @@ function scrapeNewNation(html, seen) {
 
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
-  { label: "Times of Bangladesh – Opinion", url: "https://tob.news/category/opinion/", scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
-  { label: "Times of Bangladesh – Navid", url: "https://tob.news/author/navid/", scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
-  { label: "Times of Bangladesh – Times Opinion", url: "https://tob.news/author/timesopinion/", scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
-  { label: "The Business Standard – Features", url: "https://www.tbsnews.net/features", scraper: scrapeTBS },
-  { label: "The Business Standard – Thoughts", url: "https://www.tbsnews.net/thoughts", scraper: scrapeTBS },
-  { label: "New Age BD – Editorial & Opinion", url: "https://www.newagebd.net/articlelist/25/editorial", scraper: scrapeNewAge },
-  { label: "The Financial Express – Editorial", url: "https://thefinancialexpress.com.bd/editorial", scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Editorial") },
-  { label: "The Financial Express – Views", url: "https://thefinancialexpress.com.bd/views", scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Views") },
-  { label: "FE Today – Views & Reviews", url: "https://today.thefinancialexpress.com.bd/views-reviews", scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Reviews") },
-  { label: "FE Today – Editorial", url: "https://today.thefinancialexpress.com.bd/editorial", scraper: (html, seen) => scrapeFEToday(html, seen, "Editorial") },
-  { label: "FE Today – Views & Opinion", url: "https://today.thefinancialexpress.com.bd/views-opinion", scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Opinion") },
-  { label: "The Asian Age – Editorial", url: "https://dailyasianage.com/news-category/14/Editorial", scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "Editorial") },
-  { label: "The Asian Age – OP-ED", url: "https://dailyasianage.com/news-category/5/OP-ED", scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "OP-ED") },
-  { label: "The Asian Age Today – OP-ED", url: "https://dailyasianage.com/page/todays-news", scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "OP-ED", 5) },
-  { label: "The Asian Age Today – Editorial", url: "https://dailyasianage.com/page/todays-news", scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "Editorial", 14) },
-  { label: "Bangladesh Post – Editorial", url: "https://bangladeshpost.net/categories/editorial", scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Editorial") },
-  { label: "Bangladesh Post – Opinion", url: "https://bangladeshpost.net/categories/opinion", scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Opinion") },
-  { label: "The New Nation – Editorial", url: "https://dailynewnation.com/news/category/todays-news/editorial", scraper: scrapeNewNation },
+  { label: "Times of Bangladesh – Opinion",        url: "https://tob.news/category/opinion/",                                    scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
+  { label: "Times of Bangladesh – Navid",          url: "https://tob.news/author/navid/",                                        scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
+  { label: "Times of Bangladesh – Times Opinion",  url: "https://tob.news/author/timesopinion/",                                 scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
+  { label: "The Business Standard – Features",     url: "https://www.tbsnews.net/features",                                      scraper: scrapeTBS },
+  { label: "The Business Standard – Thoughts",     url: "https://www.tbsnews.net/thoughts",                                      scraper: scrapeTBS },
+  { label: "New Age BD – Editorial & Opinion",     url: "https://www.newagebd.net/articlelist/25/editorial",                     scraper: scrapeNewAge },
+  { label: "New Age BD – Editorial (listing)",     url: "https://www.newagebd.net/articlelist/126/Editorial",                    scraper: (html, seen) => scrapeNewAgeSection(html, seen, "Editorial") },
+  { label: "New Age BD – OP-ED (listing)",         url: "https://www.newagebd.net/articlelist/127/OP-ED",                        scraper: (html, seen) => scrapeNewAgeSection(html, seen, "OP-ED") },
+  { label: "The Financial Express – Editorial",    url: "https://thefinancialexpress.com.bd/editorial",                          scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Editorial") },
+  { label: "The Financial Express – Views",        url: "https://thefinancialexpress.com.bd/views",                              scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Views") },
+  { label: "FE Today – Views & Reviews",           url: "https://today.thefinancialexpress.com.bd/views-reviews",                scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Reviews") },
+  { label: "FE Today – Editorial",                 url: "https://today.thefinancialexpress.com.bd/editorial",                    scraper: (html, seen) => scrapeFEToday(html, seen, "Editorial") },
+  { label: "FE Today – Views & Opinion",           url: "https://today.thefinancialexpress.com.bd/views-opinion",                scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Opinion") },
+  { label: "The Asian Age – Editorial",            url: "https://dailyasianage.com/news-category/14/Editorial",                  scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "Editorial") },
+  { label: "The Asian Age – OP-ED",               url: "https://dailyasianage.com/news-category/5/OP-ED",                       scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "OP-ED") },
+  { label: "The Asian Age Today – OP-ED",         url: "https://dailyasianage.com/page/todays-news",                            scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "OP-ED", 5) },
+  { label: "The Asian Age Today – Editorial",     url: "https://dailyasianage.com/page/todays-news",                            scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "Editorial", 14) },
+  { label: "Bangladesh Post – Editorial",          url: "https://bangladeshpost.net/categories/editorial",                       scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Editorial") },
+  { label: "Bangladesh Post – Opinion",            url: "https://bangladeshpost.net/categories/opinion",                         scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Opinion") },
+  { label: "The New Nation – Editorial",           url: "https://dailynewnation.com/news/category/todays-news/editorial",        scraper: scrapeNewNation },
 ];
 
 // ===== LOAD EXISTING ITEMS FROM XML =====
