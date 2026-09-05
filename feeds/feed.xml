@@ -4,10 +4,72 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 05 Sep 2026 17:03:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Sep 2026 19:47:07 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Sep 2026 17:03:02 GMT</pubDate>
+        <pubDate>Sat, 05 Sep 2026 19:47:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Insurance without assurance]]></title>
+            <link>https://today.thefinancialexpress.com.bd/editorial/insurance-without-assurance-1788615003</link>
+            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/insurance-without-assurance-1788615003</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sat, 05 Sep 2026 19:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How far are RTA, tariff policies functional?]]></title>
+            <description><![CDATA[In the last four years, governments have introduced at least two critical trade-related policy documents. In August 2022, the commerce ministry issued the Regional Trade Agreement (RTA) Policy, 2022, after obtaining cabinet approval. The policy replaced the Policy Guidelines on Free Trade Agreement, 2010. Again, in August 2023, the ministry...]]></description>
+            <link>https://today.thefinancialexpress.com.bd/editorial/how-far-are-rta-tariff-policies-functional-1788615092</link>
+            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/how-far-are-rta-tariff-policies-functional-1788615092</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sat, 05 Sep 2026 19:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chaos at Mirpur-10 crossing]]></title>
+            <description><![CDATA[The Mirpur-10 roundabout is one of the busiest intersections in Dhaka City, with thousands of vehicles commuting through it daily from all directions. Surrounding this major hub are numerous reputable educational institutions, including Mirpur Girls' Ideal Laboratory Institute, Adarsha High School, Greenfield School and College, Hope School, SOS Hermann Gmeiner...]]></description>
+            <link>https://today.thefinancialexpress.com.bd/editorial/chaos-at-mirpur-10-crossing-1788615130</link>
+            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/chaos-at-mirpur-10-crossing-1788615130</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sat, 05 Sep 2026 19:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's safety on trains]]></title>
+            <link>https://today.thefinancialexpress.com.bd/editorial/womens-safety-on-trains-1788615144</link>
+            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/womens-safety-on-trains-1788615144</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sat, 05 Sep 2026 19:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump's trade war and rising US debt]]></title>
+            <link>https://today.thefinancialexpress.com.bd/views-opinion/trumps-trade-war-and-rising-us-debt-1788614916</link>
+            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-opinion/trumps-trade-war-and-rising-us-debt-1788614916</guid>
+            <category><![CDATA[Views & Opinion]]></category>
+            <pubDate>Sat, 05 Sep 2026 19:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[People crushed by price hike: Let there be relief in the market]]></title>
+            <link>https://dailynewnation.com/news/854104</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/854104</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sun, 06 Sep 2026 00:56:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Do We Expect Honesty in a System That Often Rewards Dishonesty?]]></title>
+            <link>https://dailynewnation.com/news/854105</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/854105</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sun, 06 Sep 2026 00:56:00 GMT</pubDate>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-4.jpg?fit=720%2C332&amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-4.jpg?fit=720%2C332&amp;ssl=1"/>
+        </item>
+        <item>
+            <title><![CDATA[No Liability, Perhaps—but Responsibility Must Be Taken]]></title>
+            <link>https://dailynewnation.com/news/854106</link>
+            <guid isPermaLink="true">https://dailynewnation.com/news/854106</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sun, 06 Sep 2026 00:56:00 GMT</pubDate>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-2.jpg?fit=720%2C333&amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-2.jpg?fit=720%2C333&amp;ssl=1"/>
+        </item>
         <item>
             <title><![CDATA[Bangladeshi voters are socially conservative but economically left-wing]]></title>
             <link>https://www.tbsnews.net/thoughts/bangladeshi-voters-are-socially-conservative-economically-left-wing-1534256</link>
@@ -214,8 +276,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853829</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 05 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-3.jpg?fit=720%2C319&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-3.jpg?fit=720%2C319&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-3.jpg?fit=720%2C319&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-3.jpg?fit=720%2C319&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Lionel Messi The Man behind the Legend]]></title>
@@ -223,8 +285,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853840</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 05 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3.jpg?fit=720%2C325&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3.jpg?fit=720%2C325&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3.jpg?fit=720%2C325&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3.jpg?fit=720%2C325&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Nazrul Year Must Be More Than a Celebration]]></title>
@@ -232,8 +294,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853844</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 05 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-5.jpg?fit=720%2C333&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-5.jpg?fit=720%2C333&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-5.jpg?fit=720%2C333&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-5.jpg?fit=720%2C333&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Want Q1 journal authorship? Just hit up Facebook]]></title>
@@ -393,8 +455,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853571</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 04 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-2.jpg?fit=720%2C299&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-2.jpg?fit=720%2C299&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-2.jpg?fit=720%2C299&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-2.jpg?fit=720%2C299&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Geopolitics, imperialism and Bangladesh: Lessons from History]]></title>
@@ -402,8 +464,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853574</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 04 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2.jpg?fit=720%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2.jpg?fit=720%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2.jpg?fit=720%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2.jpg?fit=720%2C304&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Six months on, Trump struggles to end a war he started]]></title>
@@ -901,8 +963,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853407</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 03 Sep 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-1.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-1.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-1.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-1.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Power crisis to ease within 15 days, says state minister]]></title>
@@ -1593,8 +1655,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/853208</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 02 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1.jpg?fit=720%2C351&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1.jpg?fit=720%2C351&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1.jpg?fit=720%2C351&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1.jpg?fit=720%2C351&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rudiger retires from international football]]></title>
@@ -2131,8 +2193,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852984</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 01 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-28.jpg?fit=720%2C392&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-28.jpg?fit=720%2C392&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-28.jpg?fit=720%2C392&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-28.jpg?fit=720%2C392&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Artificial fertilizer crisis calls for strict monitoring]]></title>
@@ -2147,8 +2209,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852983</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 01 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-24.jpg?fit=720%2C330&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-24.jpg?fit=720%2C330&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-24.jpg?fit=720%2C330&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-24.jpg?fit=720%2C330&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[TIMES of Bangladesh mature at just one year: Prime Bank AMD]]></title>
@@ -2501,8 +2563,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852764</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 31 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-8-11.jpg?fit=720%2C405&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-8-11.jpg?fit=720%2C405&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-8-11.jpg?fit=720%2C405&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-8-11.jpg?fit=720%2C405&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Hormuz and Bab el-Mandeb: The Chokepoints Reshaping the Global Economy]]></title>
@@ -2510,8 +2572,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852754</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 31 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-7-25.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-7-25.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-7-25.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/6-7-25.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Is nature solely to blame for the dreadful disaster in Nepal?]]></title>
@@ -3030,8 +3092,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852553</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 30 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-23.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-23.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-23.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-23.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rising Cost of Starting a Family]]></title>
@@ -3039,8 +3101,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852555</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 30 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-27.jpg?fit=720%2C307&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-27.jpg?fit=720%2C307&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-27.jpg?fit=720%2C307&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-27.jpg?fit=720%2C307&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Rajuan Ahmed’s books reach global platforms]]></title>
@@ -3746,8 +3808,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852340</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 29 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-26.jpg?fit=720%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-26.jpg?fit=720%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-26.jpg?fit=720%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-26.jpg?fit=720%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Six months of the BNP Govt: What has changed in education?]]></title>
@@ -3755,8 +3817,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852341</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 29 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-9.jpg?fit=720%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-9.jpg?fit=720%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-9.jpg?fit=720%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-3-9.jpg?fit=720%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Badhan praises The Difficult Bride and its women-led set]]></title>
@@ -4151,8 +4213,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852023</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 28 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-25.jpg?fit=720%2C352&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-25.jpg?fit=720%2C352&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-25.jpg?fit=720%2C352&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-1-25.jpg?fit=720%2C352&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[When the Packet Stays the Same but the Product Shrinks]]></title>
@@ -4160,8 +4222,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/852024</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 28 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-21.jpg?fit=720%2C380&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-21.jpg?fit=720%2C380&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-21.jpg?fit=720%2C380&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-21.jpg?fit=720%2C380&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bar owners seek separate alcohol act]]></title>
@@ -4354,8 +4416,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/851223</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 23 Aug 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/08/5-2-17.jpg?fit=548%2C276&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Missing customs worker found dismembered in Mymensingh, two arrested]]></title>
@@ -4365,77 +4427,6 @@
             <pubDate>Wed, 26 Aug 2026 16:03:13 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/08/Customs-worker-murder.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Customs-worker-murder.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BUBT hosts Islamic Seminar, Seerat Mahfil on Eid-e-Miladunnabi]]></title>
-            <link>https://tob.news/bubt-hosts-islamic-seminar-seerat-mahfil-on-eid-e-miladunnabi/</link>
-            <guid isPermaLink="true">https://tob.news/bubt-hosts-islamic-seminar-seerat-mahfil-on-eid-e-miladunnabi/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 14:48:17 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/BUBT-1.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/BUBT-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Is ‘system strengthening’ the development sector’s latest illusion?]]></title>
-            <description><![CDATA[Inside the climate-controlled ballrooms of Dhaka’s premier luxury hotels, high-level delegates regularly gather around polished…]]></description>
-            <link>https://tob.news/is-system-strengthening-the-development-sectors-latest-illusion/</link>
-            <guid isPermaLink="true">https://tob.news/is-system-strengthening-the-development-sectors-latest-illusion/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Sun, 23 Aug 2026 02:45:50 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/development.png" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/development.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Body of missing NZ teen recovered after Cox’s Bazar boat capsize]]></title>
-            <link>https://tob.news/body-of-missing-nz-teen-recovered-after-coxs-bazar-boat-capsize/</link>
-            <guid isPermaLink="true">https://tob.news/body-of-missing-nz-teen-recovered-after-coxs-bazar-boat-capsize/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 14:28:41 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/New-Zealand-teenager-Albert.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/New-Zealand-teenager-Albert.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two arrested in Narail over fake online arms trade scam]]></title>
-            <link>https://tob.news/two-arrested-in-narail-over-fake-online-arms-trade-scam/</link>
-            <guid isPermaLink="true">https://tob.news/two-arrested-in-narail-over-fake-online-arms-trade-scam/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 14:23:31 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/Arms-trade-scam.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/Arms-trade-scam.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Test victory over Australia: A confidence boost for Tigers]]></title>
-            <link>https://bangladeshpost.net/posts/test-victory-over-australia-a-confidence-boost-for-tigers-172442</link>
-            <guid isPermaLink="true">https://bangladeshpost.net/posts/test-victory-over-australia-a-confidence-boost-for-tigers-172442</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 26 Aug 2026 14:36:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Awami League rebuild: Who is in line for key roles?]]></title>
-            <link>https://tob.news/awami-league-rebuild-who-is-in-line-for-key-roles/</link>
-            <guid isPermaLink="true">https://tob.news/awami-league-rebuild-who-is-in-line-for-key-roles/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 12:50:43 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2025/11/Sheikh-Hasina-2-300x169.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2025/11/Sheikh-Hasina-2-300x169.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20-year treasury bond yield falls to 9.1%]]></title>
-            <link>https://tob.news/20-year-treasury-bond-yield-falls-to-9-1/</link>
-            <guid isPermaLink="true">https://tob.news/20-year-treasury-bond-yield-falls-to-9-1/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 13:24:53 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/20-Year-Treasury-Yield-Chart.png" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/20-Year-Treasury-Yield-Chart.png"/>
-        </item>
-        <item>
-            <title><![CDATA[CIA chief in rare Moscow talks with Russian intelligence]]></title>
-            <link>https://tob.news/cia-chief-in-rare-moscow-talks-with-russian-intelligence/</link>
-            <guid isPermaLink="true">https://tob.news/cia-chief-in-rare-moscow-talks-with-russian-intelligence/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 26 Aug 2026 13:20:05 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/08/John-Ratcliffe-1.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/08/John-Ratcliffe-1.jpg"/>
         </item>
     </channel>
 </rss>
