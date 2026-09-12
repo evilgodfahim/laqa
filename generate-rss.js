@@ -30,26 +30,29 @@ const TOB_BASE = "https://tob.news";
 
 function parseTOBDate(timeText) {
   const text = (timeText || "").trim();
+
   if (!text) return new Date();
 
-  // Relative times such as "2h ago", "30m ago", "1d ago"
+  // Relative time: 2h ago, 30m ago, 1d ago, 1w ago
   const relative = text.match(/^(\d+)\s*(m|h|d|w)\s+ago$/i);
+
   if (relative) {
     const value = Number(relative[1]);
     const unit  = relative[2].toLowerCase();
 
-    let milliseconds = 0;
+    const multipliers = {
+      m: 60 * 1000,
+      h: 60 * 60 * 1000,
+      d: 24 * 60 * 60 * 1000,
+      w: 7 * 24 * 60 * 60 * 1000,
+    };
 
-    if (unit === "m") milliseconds = value * 60 * 1000;
-    if (unit === "h") milliseconds = value * 60 * 60 * 1000;
-    if (unit === "d") milliseconds = value * 24 * 60 * 60 * 1000;
-    if (unit === "w") milliseconds = value * 7 * 24 * 60 * 60 * 1000;
-
-    return new Date(Date.now() - milliseconds);
+    return new Date(Date.now() - value * multipliers[unit]);
   }
 
-  // Absolute dates such as "11 Sep 2026"
+  // Absolute date: 11 Sep 2026
   const parsed = new Date(text);
+
   if (!Number.isNaN(parsed.getTime())) {
     return parsed;
   }
@@ -64,30 +67,32 @@ function scrapeTOB(html, seen, category) {
   $("div.tob-archive article").each((_, articleEl) => {
     const $article = $(articleEl);
 
-    // Title + article URL
+    // ===== TITLE + LINK =====
     const $titleAnchor = $article.find("h2 a").first();
-    const href = ($titleAnchor.attr("href") || "").trim();
 
+    const href = ($titleAnchor.attr("href") || "").trim();
     if (!href) return;
 
-    const link = href.startsWith("http") ? href : TOB_BASE + href;
+    const link = href.startsWith("http")
+      ? href
+      : TOB_BASE + href;
+
     if (seen.has(link)) return;
 
     const title = $titleAnchor.text().trim();
     if (!title) return;
 
-    // Description
+    // ===== DESCRIPTION =====
     const description = $article
       .find("p.archive-featured-excerpt, p.archive-card-excerpt")
       .first()
       .text()
       .trim();
 
-    // Main article image
+    // ===== ARTICLE IMAGE =====
+    // TOB uses lazy-loaded images with data-src.
     const $img = $article
-      .find(
-        ".archive-featured-thumb img, .archive-card-thumb img"
-      )
+      .find(".archive-featured-thumb img, .archive-card-thumb img")
       .first();
 
     const imageSrc = (
@@ -101,16 +106,20 @@ function scrapeTOB(html, seen, category) {
         ? imageSrc
         : null;
 
-    // Author
+    // ===== AUTHOR =====
     const author = $article
       .find(".archive-card-author")
       .first()
       .text()
       .trim();
 
-    // Displayed publication time/date
-    const $meta = $article.find("p.archive-card-meta").first();
-    const timeText = $meta.find("> span:last-child").text().trim();
+    // ===== TIME / DATE =====
+    // TOB puts the displayed time/date in the final span
+    // of p.archive-card-meta.
+    const timeText = $article
+      .find("p.archive-card-meta > span:last-child")
+      .text()
+      .trim();
 
     const date = parseTOBDate(timeText);
 
@@ -653,16 +662,25 @@ function scrapeNewNation(html, seen) {
 
 // ===== SOURCE REGISTRY =====
 const SOURCES = [
-  {
-    label: "Times of Bangladesh – Analysis",
-    url: "https://tob.news/category/analysis/",
-    scraper: (html, seen) => scrapeTOB(html, seen, "Analysis")
-  },
-  {
-    label: "Times of Bangladesh – Opinion",
-    url: "https://tob.news/category/opinion/",
-    scraper: (html, seen) => scrapeTOB(html, seen, "Opinion")
-  },
+  { label: "Times of Bangladesh – Analysis",       url: "https://tob.news/category/analysis/",  scraper: (html, seen) => scrapeTOB(html, seen, "Analysis") },
+  { label: "Times of Bangladesh – Opinion",        url: "https://tob.news/category/opinion/",   scraper: (html, seen) => scrapeTOB(html, seen, "Opinion") },
+  { label: "The Business Standard – Features",     url: "https://www.tbsnews.net/features",                                      scraper: scrapeTBS },
+  { label: "The Business Standard – Thoughts",     url: "https://www.tbsnews.net/thoughts",                                      scraper: scrapeTBS },
+  { label: "New Age BD – Editorial & Opinion",     url: "https://www.newagebd.net/articlelist/25/editorial",                     scraper: scrapeNewAge },
+  { label: "New Age BD – Editorial (listing)",     url: "https://www.newagebd.net/articlelist/126/Editorial",                    scraper: (html, seen) => scrapeNewAgeSection(html, seen, "Editorial") },
+  { label: "New Age BD – OP-ED (listing)",         url: "https://www.newagebd.net/articlelist/127/OP-ED",                        scraper: (html, seen) => scrapeNewAgeSection(html, seen, "OP-ED") },
+  { label: "The Financial Express – Editorial",    url: "https://thefinancialexpress.com.bd/editorial",                          scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Editorial") },
+  { label: "The Financial Express – Views",        url: "https://thefinancialexpress.com.bd/views",                              scraper: (html, seen) => scrapeFinancialExpress(html, seen, "Views") },
+  { label: "FE Today – Views & Reviews",           url: "https://today.thefinancialexpress.com.bd/views-reviews",                scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Reviews") },
+  { label: "FE Today – Editorial",                 url: "https://today.thefinancialexpress.com.bd/editorial",                    scraper: (html, seen) => scrapeFEToday(html, seen, "Editorial") },
+  { label: "FE Today – Views & Opinion",           url: "https://today.thefinancialexpress.com.bd/views-opinion",                scraper: (html, seen) => scrapeFEToday(html, seen, "Views & Opinion") },
+  { label: "The Asian Age – Editorial",            url: "https://dailyasianage.com/news-category/14/Editorial",                  scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "Editorial") },
+  { label: "The Asian Age – OP-ED",               url: "https://dailyasianage.com/news-category/5/OP-ED",                       scraper: (html, seen) => scrapeAsianAgeCategory(html, seen, "OP-ED") },
+  { label: "The Asian Age Today – OP-ED",         url: "https://dailyasianage.com/page/todays-news",                            scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "OP-ED", 5) },
+  { label: "The Asian Age Today – Editorial",     url: "https://dailyasianage.com/page/todays-news",                            scraper: (html, seen) => scrapeAsianAgeToday(html, seen, "Editorial", 14) },
+  { label: "Bangladesh Post – Editorial",          url: "https://bangladeshpost.net/categories/editorial",                       scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Editorial") },
+  { label: "Bangladesh Post – Opinion",            url: "https://bangladeshpost.net/categories/opinion",                         scraper: (html, seen) => scrapeBangladeshPost(html, seen, "Opinion") },
+  { label: "The New Nation – Editorial",           url: "https://dailynewnation.com/news/category/todays-news/editorial",        scraper: scrapeNewNation },
 ];
 
 // ===== LOAD EXISTING ITEMS FROM XML =====
@@ -724,8 +742,8 @@ function buildFeed(items) {
       url:             item.link,
       description:     item.description || undefined,
       categories:      item.category ? [item.category] : undefined,
-      date:            item.date,
-      author:          item.author || undefined,
+      date:             item.date,
+      author:           item.author || undefined,
       custom_elements: customElements.length ? customElements : undefined,
     });
   }
