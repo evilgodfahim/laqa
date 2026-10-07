@@ -4,17 +4,147 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 07 Oct 2026 07:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Oct 2026 14:56:49 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Oct 2026 07:58:12 GMT</pubDate>
+        <pubDate>Wed, 07 Oct 2026 14:56:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Let’s raise children as responsible digital citizens]]></title>
+            <description><![CDATA[Once, a parent’s biggest worry was whether a child was spending too much time outside the home. Today, the worry is quite different: the child is sitting quietly at home, but the whole world is inside the phone. For parents, this creates a new kind of challenge. Their children can install applications, change privacy settings, […]]]></description>
+            <link>https://tob.news/lets-raise-children-as-responsible-digital-citizens/</link>
+            <guid isPermaLink="true">https://tob.news/lets-raise-children-as-responsible-digital-citizens/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Mohammad Shaikh Salim Reza]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 14:55:09 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/10/digital-parenting-900x506.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/digital-parenting-900x506.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Children face worst impacts of climate change]]></title>
+            <description><![CDATA[Climate change knows no border, region, season, continent, or age. It affects everyone, especially in the...]]></description>
+            <link>https://tob.news/children-face-worst-impacts-of-climate-change/</link>
+            <guid isPermaLink="true">https://tob.news/children-face-worst-impacts-of-climate-change/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Parvez Babul]]></dc:creator>
+            <pubDate>Wed, 07 Oct 2026 14:55:09 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/10/climate-eduation-bangladesh-600x338.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/climate-eduation-bangladesh-600x338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Five days, five moods: Dressing for Durga Puja]]></title>
+            <description><![CDATA[From soft pastels on Shashthi to classic white-and-red on Dashami, dressing for Puja is about finding the right balance between festive style, personal flair and staying comfortable outdoors]]></description>
+            <link>https://www.tbsnews.net/features/mode/five-days-five-moods-dressing-durga-puja-1565326</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/mode/five-days-five-moods-dressing-durga-puja-1565326</guid>
+            <category><![CDATA[Mode]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:55:15 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/brand_bishworang.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/brand_bishworang.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Even death costs dearly in Dhaka]]></title>
+            <link>https://www.tbsnews.net/features/panorama/even-death-costs-dearly-dhaka-1564931</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/even-death-costs-dearly-dhaka-1564931</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:55:15 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/08_panorama_copy.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/08_panorama_copy.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A 10-year roadmap to save Bangladesh's energy sector]]></title>
+            <link>https://www.tbsnews.net/features/panorama/10-year-roadmap-save-bangladeshs-energy-sector-1564936</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/10-year-roadmap-save-bangladeshs-energy-sector-1564936</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:55:15 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/teesta_solar_plant_project_2_photo_syed_zakir_hossain.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/10/07/teesta_solar_plant_project_2_photo_syed_zakir_hossain.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Authorities need to fix startup funding gap]]></title>
+            <description><![CDATA[THE startup ecosystem appears to be facing a funding crisis that can no longer be dismissed as a temporary consequence of a difficult global or domestic investment climate. According to the Bangladesh Startup Investments Report by LightCastle Partners, startup funding fell to a five-year low in the first half of 2026, with only $6 million raised — 95 per cent lower than the $120 million raised during the same period in 2025. The...]]></description>
+            <link>https://www.newagebd.net/post/editorial/316984/authorities-need-to-fix-startup-funding-gap</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/editorial/316984/authorities-need-to-fix-startup-funding-gap</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/faa1514d2c786d919b4fc2236034ac95_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/faa1514d2c786d919b4fc2236034ac95_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BNP at the crossroads of power and accountability]]></title>
+            <description><![CDATA[A FAMILIAR pattern recurs whenever there is a transfer of power in Bangladeshi politics. Indictments for extortion, illegal property occupation, tender manipulation and abuse of influence are filed against leaders and activists of the ruling party. The opposition are using these charges as political weapons against the government. Eventually there is a change of government, but the nature of the allegations remains the same; only the...]]></description>
+            <link>https://www.newagebd.net/post/opinion/316843/bnp-at-the-crossroads-of-power-and-accountability</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/opinion/316843/bnp-at-the-crossroads-of-power-and-accountability</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/26d8f3ef0b264ac3f69348e5768f85d5_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/26d8f3ef0b264ac3f69348e5768f85d5_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Climate policy must give voice to women]]></title>
+            <description><![CDATA[THE growing impact of climate-related disaster on girls’ health, education and safety is concerning as Bangladesh remains vulnerable to climate shocks. A global study by Plan International shows how flood, droughts, cyclones and extreme heat can intensify gender inequalities, leaving girls exposed to child marriage, unintended pregnancy and violence. The study, based on surveys of 5,000 girls and young women in Bangladesh...]]></description>
+            <link>https://www.newagebd.net/post/editorial/316848/climate-policy-must-give-voice-to-women</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/editorial/316848/climate-policy-must-give-voice-to-women</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/1eb6aaa0fb4ba50c883c59f472945da2_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/1eb6aaa0fb4ba50c883c59f472945da2_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[THREE YEARS AFTER OCTOBER 7: Palestine is more than a humanitarian cause]]></title>
+            <description><![CDATA[A TICKING bomb and a matter of time. These words summarise what’s currently going on now in Palestine. But you, the person who’s reading this, might ask how, and I will answer...]]></description>
+            <link>https://www.newagebd.net/post/opinion/316844/three-years-after-october-7-palestine-is-more-than-a-humanitarian-cause</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/opinion/316844/three-years-after-october-7-palestine-is-more-than-a-humanitarian-cause</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/c8c152ad7b40796c4c6e38e92f70313b_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/c8c152ad7b40796c4c6e38e92f70313b_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Diesel price woes that govt must keep farmers off]]></title>
+            <description><![CDATA[THE recent increase in the price of diesel, used in irrigation and farming, by Tk 20 a litre further squeezes farmers as they struggle with farm machinery, agricultural input and transport costs. The government increased the diesel price to Tk 135 from Tk 115 a litre on September 21, apparently setting aside concerns about its impact on farming and food production and supply. The government has increased the diesel price when farmers...]]></description>
+            <link>https://www.newagebd.net/post/editorial/316846/diesel-price-woes-that-govt-must-keep-farmers-off</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/editorial/316846/diesel-price-woes-that-govt-must-keep-farmers-off</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/02997803abd34f85b44394b82645aa14_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/02997803abd34f85b44394b82645aa14_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FlyDubai and Omani pilot]]></title>
+            <description><![CDATA[THE FlyDubai incident of September 30, in which an Omani co-pilot allegedly attacked the captain and attempted to seize control of a flight from Dubai to Tel Aviv, has rapidly evolved from a serious aviation security event into a geopolitical Rorschach test. The official narrative — a lone, radicalised individual — competes with a darker, more structurally coherent conspiracy theory that the event was a false flag operation...]]></description>
+            <link>https://www.newagebd.net/post/opinion/316845/flydubai-and-omani-pilot</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/opinion/316845/flydubai-and-omani-pilot</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://outspoken.newagebd.com/files/img/202610/96e4006e1ced794001b3ad3d8ab93e64_medium.jpg" medium="image"/>
+            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202610/96e4006e1ced794001b3ad3d8ab93e64_medium.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zakat collection and distribution: A coordinated national framework essential]]></title>
+            <link>https://bangladeshpost.net/posts/zakat-collection-and-distribution-a-coordinated-national-framework-essential-173191</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/zakat-collection-and-distribution-a-coordinated-national-framework-essential-173191</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think beyond open-pit coal mining at Phulbari]]></title>
+            <link>https://bangladeshpost.net/posts/think-beyond-open-pit-coal-mining-at-phulbari-172642</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/think-beyond-open-pit-coal-mining-at-phulbari-172642</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Think beyond open-pit coal mining at Phulbari]]></title>
+            <link>https://bangladeshpost.net/posts/think-beyond-open-pit-coal-mining-at-phulbari-172641</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/think-beyond-open-pit-coal-mining-at-phulbari-172641</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Wed, 07 Oct 2026 14:56:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dhakai Muslin: Restoring heritage for a sustainable future]]></title>
             <description><![CDATA[Bangladesh has a remarkable history of textile production dating back centuries. Long before the Industrial Revolution in England, the Bengal region was renowned for fine cotton and silk textiles. In East Bengal, local artisans produced exceptional fabrics, including the world-famous Dhakai Muslin and Jamdani, using locally available cotton and traditional hand-weaving techniques. Muslin and Jamdani […]]]></description>
             <link>https://tob.news/dhakai-muslin-restoring-heritage-for-a-sustainable-future/</link>
             <guid isPermaLink="true">https://tob.news/dhakai-muslin-restoring-heritage-for-a-sustainable-future/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Dr Md Fakhre Alam Ibne Tabib]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 07:55:39 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/10/dhakai-muslin-900x506.png" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/dhakai-muslin-900x506.png"/>
@@ -25,7 +155,6 @@
             <link>https://tob.news/evolvement-of-bangladesh-marriage-and-divorce-law/</link>
             <guid isPermaLink="true">https://tob.news/evolvement-of-bangladesh-marriage-and-divorce-law/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Md Noor Hamza Peash]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 07:55:39 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/10/bangladesh-marriage-600x338.png" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/bangladesh-marriage-600x338.png"/>
@@ -36,7 +165,6 @@
             <link>https://tob.news/the-fake-photocard-trap/</link>
             <guid isPermaLink="true">https://tob.news/the-fake-photocard-trap/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Zulker Naeen]]></dc:creator>
             <pubDate>Wed, 07 Oct 2026 07:55:39 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/10/misinformation-600x338.png" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/misinformation-600x338.png"/>
@@ -159,8 +287,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/861242</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 07 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-5.jpg?fit=720%2C346&amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-5.jpg?fit=720%2C346&amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-5.jpg?fit=720%2C346&amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-5.jpg?fit=720%2C346&amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[From Merely a Vendor to a Real Partner]]></title>
@@ -168,8 +296,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/861243</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 07 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-6.jpg?fit=720%2C382&amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-6.jpg?fit=720%2C382&amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-6.jpg?fit=720%2C382&amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-6.jpg?fit=720%2C382&amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh at UNGA 81: A louder voice, an unfinished agenda]]></title>
@@ -402,8 +530,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860988</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 06 Oct 2026 00:45:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-4.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-4.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-4.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-4.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh Must Build a Culture of Political Tolerance for Peace and Prosperity]]></title>
@@ -411,8 +539,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860989</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 06 Oct 2026 00:45:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-5.jpg?fit=720%2C360&amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-5.jpg?fit=720%2C360&amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-5.jpg?fit=720%2C360&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-5.jpg?fit=720%2C360&amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[My favourite teacher has no flesh and blood, only bricks, roads and freedom]]></title>
@@ -657,8 +785,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860766</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 05 Oct 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-3.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-3.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-3.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-3.jpg?fit=720%2C456&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Risk Factors for Heart Disease and a Healthy Dietary Plan]]></title>
@@ -666,8 +794,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860767</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 05 Oct 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-2.jpg?fit=720%2C409&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-2.jpg?fit=720%2C409&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-2.jpg?fit=720%2C409&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-2.jpg?fit=720%2C409&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[E Ink notebooks: Putting handwriting on a digital page]]></title>
@@ -1093,8 +1221,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860526</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 04 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-2.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-2.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-2.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-2.jpg?fit=720%2C332&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s Health Crisis: When Illness Threatens Economic Security]]></title>
@@ -1102,8 +1230,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860527</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 04 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-3.jpg?fit=720%2C433&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-3.jpg?fit=720%2C433&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-3.jpg?fit=720%2C433&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-3.jpg?fit=720%2C433&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[How Islamic credit cards can improve the living standard of Shariah-aware customers]]></title>
@@ -1325,8 +1453,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860251</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 03 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3.jpg?fit=720%2C328&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3.jpg?fit=720%2C328&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3.jpg?fit=720%2C328&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3.jpg?fit=720%2C328&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Nazrul a poet of romanticism throughout, never a rebel poet only]]></title>
@@ -1334,8 +1462,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860253</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 03 Oct 2026 00:52:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-1.jpg?fit=720%2C361&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-1.jpg?fit=720%2C361&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-1.jpg?fit=720%2C361&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-1.jpg?fit=720%2C361&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[From Babri to Ujjain, mosques used by Muslims in India face uncertainty]]></title>
@@ -1796,8 +1924,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860069</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 02 Oct 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2.jpg?fit=720%2C314&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[International Day of Older Persons: Protecting Seniors is a State Duty]]></title>
@@ -1812,8 +1940,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/860067</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 02 Oct 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1.jpg?fit=720%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1.jpg?fit=720%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1.jpg?fit=720%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1.jpg?fit=720%2C372&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Thank you, Prime Minister – now make it the rule]]></title>
@@ -2129,8 +2257,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859861</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 01 Oct 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-29.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-29.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-29.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-29.jpg?fit=300%2C300&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[‘Whey water is a by-product, not waste’]]></title>
@@ -2422,8 +2550,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859590</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 30 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-26.jpg?fit=720%2C378&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-26.jpg?fit=720%2C378&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-26.jpg?fit=720%2C378&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-26.jpg?fit=720%2C378&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[When Banks Cannot Protect People’s Money, What Is Left of Public Trust?]]></title>
@@ -2431,8 +2559,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859592</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 30 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-28.jpg?fit=720%2C373&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-28.jpg?fit=720%2C373&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-28.jpg?fit=720%2C373&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-28.jpg?fit=720%2C373&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Ducsu’s teacher evaluation initiative: When feedback turns into a weapon]]></title>
@@ -2749,8 +2877,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859397</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 29 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-27.jpg?fit=720%2C371&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-27.jpg?fit=720%2C371&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-27.jpg?fit=720%2C371&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-27.jpg?fit=720%2C371&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Smartphone Addiction in Children: Parents and State Must Step In]]></title>
@@ -2765,8 +2893,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859396</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 29 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-25.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-25.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-25.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-25.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Trump’s power on the ballot]]></title>
@@ -3123,8 +3251,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859164</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 28 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-26.jpg?fit=720%2C379&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-26.jpg?fit=720%2C379&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-26.jpg?fit=720%2C379&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-26.jpg?fit=720%2C379&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Fare Chaos Sparks Call to Protect Passengers]]></title>
@@ -3139,8 +3267,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/859162</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 28 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-24.jpg?fit=720%2C368&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-24.jpg?fit=720%2C368&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-24.jpg?fit=720%2C368&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-24.jpg?fit=720%2C368&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[2012 Mazda RX-8 Spirit R: The last of a humble yet sharp sports car]]></title>
@@ -3346,8 +3474,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858954</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 27 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-23.jpg?fit=720%2C362&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-23.jpg?fit=720%2C362&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-23.jpg?fit=720%2C362&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-23.jpg?fit=720%2C362&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[To End Educational Inequality, Every Stream Must Be Considered]]></title>
@@ -3355,8 +3483,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858955</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 27 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-25.jpg?fit=720%2C356&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-25.jpg?fit=720%2C356&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-25.jpg?fit=720%2C356&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-25.jpg?fit=720%2C356&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[PM Puts ‘Bangladesh First’ Vision Before the World at the UN]]></title>
@@ -3838,8 +3966,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858656</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 26 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3-7.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3-7.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3-7.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-3-7.jpg?fit=720%2C338&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Opratim must not become another forgotten tragedy]]></title>
@@ -3847,8 +3975,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858658</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 26 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5555-1.jpg?fit=720%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5555-1.jpg?fit=720%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5555-1.jpg?fit=720%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5555-1.jpg?fit=720%2C414&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Food beyond survival]]></title>
@@ -3856,8 +3984,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858659</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 26 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-24.jpg?fit=720%2C377&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-24.jpg?fit=720%2C377&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-24.jpg?fit=720%2C377&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-24.jpg?fit=720%2C377&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Democracy beyond elections: The real test begins after the ballot]]></title>
@@ -3947,8 +4075,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858407</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 25 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-23.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-23.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-23.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-23.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[For Bangladesh, energy and food security are inseparable]]></title>
@@ -3956,8 +4084,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858408</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 25 Sep 2026 00:56:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-21.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-21.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-21.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-21.jpg?fit=720%2C326&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[To get girls into STEM, we must first make childhood safe]]></title>
@@ -4275,8 +4403,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858192</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 24 Sep 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-22.jpg?fit=500%2C357&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-22.jpg?fit=500%2C357&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-22.jpg?fit=500%2C357&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-1-22.jpg?fit=500%2C357&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bridging the Great Divide: Protecting Bangladesh’s Technical Backbone and Diploma Engineers]]></title>
@@ -4284,8 +4412,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/858193</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 24 Sep 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-20.jpg?fit=500%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-20.jpg?fit=500%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-20.jpg?fit=500%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/09/5-2-20.jpg?fit=500%2C334&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Let’s Raise Awareness Against Bribery]]></title>
@@ -4382,135 +4510,6 @@
             <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
             <media:content url="https://outspoken.newagebd.com/files/img/202609/72f59ad0d72bb20f061067feeb4e9f5d_medium.jpg" medium="image"/>
             <media:thumbnail url="https://outspoken.newagebd.com/files/img/202609/72f59ad0d72bb20f061067feeb4e9f5d_medium.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Little Magazines Have Nearly Disappeared]]></title>
-            <description><![CDATA[Once a vibrant part of Bangladesh's literary and cultural life, little magazines]]></description>
-            <link>https://dailyasianage.com/news/358334/little-magazines-have-nearly-disappeared</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358334/little-magazines-have-nearly-disappeared</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Investment Scenario Is  Still Very Obscure]]></title>
-            <description><![CDATA[The investment climate in Bangladesh remains uncertain as businesses and investors continue]]></description>
-            <link>https://dailyasianage.com/news/358333/investment-scenario-is--still-very-obscure</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358333/investment-scenario-is--still-very-obscure</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Move People, Not Park Cars: Time for Dhaka's Parking Reform]]></title>
-            <description><![CDATA[Farhad Ahmed]]></description>
-            <link>https://dailyasianage.com/news/358332/move-people-not-park-cars-time-for-dhakas-parking-reform</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358332/move-people-not-park-cars-time-for-dhakas-parking-reform</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:25 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1790184873_2.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1790184873_2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hiked Petroleum Prices Will Have Adverse Effects on Public Transports and Industries]]></title>
-            <description><![CDATA[The decision to raise fuel prices in Bangladesh]]></description>
-            <link>https://dailyasianage.com/news/358331/hiked-petroleum-prices-will-have-adverse-effects-on-public-transports-and-industries</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358331/hiked-petroleum-prices-will-have-adverse-effects-on-public-transports-and-industries</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:25 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1790184784_7.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1790184784_7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[An Imperative for Peace: All Stakeholders Must Cooperate With the UN to Resolve Geopolitical Conflicts]]></title>
-            <description><![CDATA[Kabita Banerjee]]></description>
-            <link>https://dailyasianage.com/news/358330/an-imperative-for-peace-all-stakeholders-must-cooperate-with-the-un-to-resolve-geopolitical-conflicts</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358330/an-imperative-for-peace-all-stakeholders-must-cooperate-with-the-un-to-resolve-geopolitical-conflicts</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:31 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1790184725_0.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1790184725_0.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Empty Chair in the Courtroom]]></title>
-            <description><![CDATA[Anika Raisa]]></description>
-            <link>https://dailyasianage.com/news/358329/the-empty-chair-in-the-courtroom</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/358329/the-empty-chair-in-the-courtroom</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Wed, 23 Sep 2026 17:36:31 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1790184642_3.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1790184642_3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bengaluru: 72 hours at South Asia’s Silicon Valley]]></title>
-            <description><![CDATA[Bengaluru’s technology campuses first drew my attention. Its old forts, shaded streets, local food and lively evenings gave me more to explore during a three-day stay]]></description>
-            <link>https://www.tbsnews.net/features/explorer/bengaluru-72-hours-south-asias-silicon-valley-1551641</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/explorer/bengaluru-72-hours-south-asias-silicon-valley-1551641</guid>
-            <category><![CDATA[Explorer]]></category>
-            <pubDate>Wed, 23 Sep 2026 12:34:16 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/google_adobe_lightroom.png" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/google_adobe_lightroom.png"/>
-        </item>
-        <item>
-            <title><![CDATA[As Dhaka loses open spaces, gaming cafés fill the gap]]></title>
-            <link>https://www.tbsnews.net/features/panorama/dhaka-loses-open-spaces-gaming-cafes-fill-gap-1551696</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/dhaka-loses-open-spaces-gaming-cafes-fill-gap-1551696</guid>
-            <category><![CDATA[Panorama]]></category>
-            <pubDate>Wed, 23 Sep 2026 12:34:16 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/lead_motion_photo_49581232022463634211.jpg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/lead_motion_photo_49581232022463634211.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[From Jamdani to Anarkali: The evolving Puja wardrobe]]></title>
-            <link>https://www.tbsnews.net/features/mode/jamdani-anarkali-evolving-puja-wardrobe-1551421</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/mode/jamdani-anarkali-evolving-puja-wardrobe-1551421</guid>
-            <category><![CDATA[Mode]]></category>
-            <pubDate>Wed, 23 Sep 2026 12:34:16 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/anarkali_jodi.png" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/anarkali_jodi.png"/>
-        </item>
-        <item>
-            <title><![CDATA[The photojournalist behind the frame: Munir Uz Zaman and the responsibility to witness]]></title>
-            <link>https://www.tbsnews.net/features/photojournalist-behind-frame-munir-uz-zaman-and-responsibility-witness-1551326</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/photojournalist-behind-frame-munir-uz-zaman-and-responsibility-witness-1551326</guid>
-            <category><![CDATA[Features]]></category>
-            <pubDate>Wed, 23 Sep 2026 12:34:16 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/whatsapp_image_2026-09-23_at_12.17.23_pm_1.jpeg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/23/whatsapp_image_2026-09-23_at_12.17.23_pm_1.jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Handing over Jalil Textile Mills to Bangladesh Army: A strategic step towards defence self-reliance]]></title>
-            <link>https://bangladeshpost.net/posts/handing-over-jalil-textile-mills-to-bangladesh-army-a-strategic-step-towards-defence-self-reliance-172803</link>
-            <guid isPermaLink="true">https://bangladeshpost.net/posts/handing-over-jalil-textile-mills-to-bangladesh-army-a-strategic-step-towards-defence-self-reliance-172803</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 23 Sep 2026 12:35:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The idea of India at a crossroads: Secularism, majoritarianism and Muslim citizenship (Part-1)]]></title>
-            <description><![CDATA[There has been a row involving three common phrases, Assalamu Alaikum, Inshallah, and Jazakallah, that has led to much bigger discussions about secularism, citizenship, and nationalism in modern-day India. Bushra Bano, an...]]></description>
-            <link>https://tob.news/the-idea-of-india-at-a-crossroads-secularism-majoritarianism-and-muslim-citizenship-part-1/</link>
-            <guid isPermaLink="true">https://tob.news/the-idea-of-india-at-a-crossroads-secularism-majoritarianism-and-muslim-citizenship-part-1/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 23 Sep 2026 06:58:56 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/09/indian-citizenship-900x506.png" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/09/indian-citizenship-900x506.png"/>
-        </item>
-        <item>
-            <title><![CDATA[When grief becomes content: What Aprotim’s death reveals about us]]></title>
-            <description><![CDATA[The murder of 13-year-old Aprotim was tragic enough on its own. But what happened after his...]]></description>
-            <link>https://tob.news/when-grief-becomes-content-what-aprotims-death-reveals-about-us/</link>
-            <guid isPermaLink="true">https://tob.news/when-grief-becomes-content-what-aprotims-death-reveals-about-us/</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Wed, 23 Sep 2026 06:58:56 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/09/Aprotim-600x338.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/09/Aprotim-600x338.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[When silence has a language]]></title>
-            <link>https://www.tbsnews.net/features/when-silence-has-language-1548956</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/when-silence-has-language-1548956</guid>
-            <category><![CDATA[Features]]></category>
-            <pubDate>Wed, 23 Sep 2026 06:59:03 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/21/international_day_of_sign_languages_1.jpeg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/09/21/international_day_of_sign_languages_1.jpeg"/>
         </item>
     </channel>
 </rss>
