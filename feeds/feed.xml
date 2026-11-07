@@ -4,17 +4,40 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Nov 2026 19:13:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2026 23:16:37 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Nov 2026 19:13:38 GMT</pubDate>
+        <pubDate>Sat, 07 Nov 2026 23:16:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Biodiversity COP17: a global promise, a critical test for bangladesh]]></title>
+            <description><![CDATA[The global biodiversity summit in Yerevan renewed commitments to conservation, but the world remains off track to meet its 2030 targets. For Bangladesh, the challenge now is to turn international...]]></description>
+            <link>https://www.tbsnews.net/thoughts/biodiversity-cop17-global-promise-critical-test-bangladesh-1595866</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/biodiversity-cop17-global-promise-critical-test-bangladesh-1595866</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Sat, 07 Nov 2026 23:15:23 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/08/enb-iisd_-_anastasia_rodopoulou_-_unccd-cop17-_17aug2026_-_photo-75.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/08/enb-iisd_-_anastasia_rodopoulou_-_unccd-cop17-_17aug2026_-_photo-75.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Road crash cases cannot be settled outside due process]]></title>
+            <link>https://bangladeshpost.net/posts/road-crash-cases-cannot-be-settled-outside-due-process-173777</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/road-crash-cases-cannot-be-settled-outside-due-process-173777</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Sat, 07 Nov 2026 23:16:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NAZA, Israel’s war on witnesses, and media complicity]]></title>
+            <link>https://bangladeshpost.net/posts/naza-israel-s-war-on-witnesses-and-media-complicity-173778</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/naza-israel-s-war-on-witnesses-and-media-complicity-173778</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Sat, 07 Nov 2026 23:16:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US midterms and bankruptcy of Bangladesh’s political leadership]]></title>
             <description><![CDATA[The recent electoral experience in the United States reminds us once again that, however powerful the influence of wealth, corporate interests, and entrenched  political establishments may be, the people’s desire for change...]]></description>
             <link>https://tob.news/us-midterms-and-bankruptcy-of-bangladeshs-political-leadership/</link>
             <guid isPermaLink="true">https://tob.news/us-midterms-and-bankruptcy-of-bangladeshs-political-leadership/</guid>
             <category><![CDATA[Analysis]]></category>
-            <dc:creator><![CDATA[Dr Khalilur Rahman]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 19:12:06 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/11/US-Midterms-1-900x506.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/US-Midterms-1-900x506.jpg"/>
@@ -25,7 +48,6 @@
             <link>https://tob.news/the-future-of-bangladeshs-capital-market/</link>
             <guid isPermaLink="true">https://tob.news/the-future-of-bangladeshs-capital-market/</guid>
             <category><![CDATA[Opinion]]></category>
-            <dc:creator><![CDATA[Rajuan Ahmed]]></dc:creator>
             <pubDate>Sat, 07 Nov 2026 19:12:09 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/10/Rajuan-Ahmed-900x506.png" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/Rajuan-Ahmed-900x506.png"/>
@@ -795,8 +817,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868245</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Many Hands, Few Skills]]></title>
@@ -804,8 +826,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868246</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A taste of the Middle East at Al Sham]]></title>
@@ -1101,8 +1123,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868044</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Freedom of Expression and Independent Media: Foundations of a Strong and Proud Nation]]></title>
@@ -1110,8 +1132,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868045</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beat diabetes and hypertension among women in Bangladesh and the Global South]]></title>
@@ -1527,8 +1549,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867863</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 04 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A Living Wage for Garment Workers: What Is Needed Is Goodwill and Dialogue]]></title>
@@ -1536,8 +1558,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867867</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 04 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A decent living should not depend on bargaining power]]></title>
@@ -1879,8 +1901,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867516</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 03 Nov 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-1.jpg?fit=720%2C418&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-1.jpg?fit=720%2C418&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-1.jpg?fit=720%2C418&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-1.jpg?fit=720%2C418&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh–China Relations, Future BRI Projects, & the Contributions of the We Speak Chinese Club Bangladesh Limited (WSCC) Think Tank]]></title>
@@ -1888,8 +1910,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867518</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 03 Nov 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-1.jpg?fit=720%2C413&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-1.jpg?fit=720%2C413&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-1.jpg?fit=720%2C413&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-1.jpg?fit=720%2C413&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Smartphone paradox: Connected to the world, disconnected from learning]]></title>
@@ -2161,8 +2183,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867289</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 02 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1.jpg?fit=720%2C443&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1.jpg?fit=720%2C443&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1.jpg?fit=720%2C443&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1.jpg?fit=720%2C443&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Failing an Examination Does Not Mean Failing in Life: Social & State Awareness Must Be Strengthened to Prevent Suicide]]></title>
@@ -2170,8 +2192,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867290</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 02 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2.jpg?fit=720%2C425&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2.jpg?fit=720%2C425&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2.jpg?fit=720%2C425&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2.jpg?fit=720%2C425&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Mob Violence: A ‘Gallows’ in the Hands of the Public]]></title>
@@ -2565,8 +2587,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866988</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 01 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-27.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-27.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-27.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-27.jpg?fit=720%2C369&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladesh’s Agricultural Paradox: More Hands, Less Productivity]]></title>
@@ -2574,8 +2596,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866989</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 01 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-30.jpg?fit=720%2C347&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-30.jpg?fit=720%2C347&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-30.jpg?fit=720%2C347&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-30.jpg?fit=720%2C347&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Scrolling into Hallyu: How Korean webtoons are making their mark in Bangladesh]]></title>
@@ -2926,8 +2948,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866757</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 31 Oct 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-9.jpg?fit=720%2C403&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-9.jpg?fit=720%2C403&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-9.jpg?fit=720%2C403&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-3-9.jpg?fit=720%2C403&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A new Middle East in the making]]></title>
@@ -2935,8 +2957,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866760</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sat, 31 Oct 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-29.jpg?fit=720%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-29.jpg?fit=720%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-29.jpg?fit=720%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-29.jpg?fit=720%2C402&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[When will digital land registration stop corruption?]]></title>
@@ -3245,8 +3267,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866577</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 30 Oct 2026 00:09:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-28.jpg?fit=500%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-28.jpg?fit=500%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-28.jpg?fit=500%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-28.jpg?fit=500%2C389&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The Future of AI: Will We Remain Consumers or Become Creators?]]></title>
@@ -3573,8 +3595,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866352</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 29 Oct 2026 00:05:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-27.jpg?fit=500%2C355&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-27.jpg?fit=500%2C355&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-27.jpg?fit=500%2C355&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-27.jpg?fit=500%2C355&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Take initiative to Establish Libraries in Primary Schools]]></title>
@@ -3678,8 +3700,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866260</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 28 Oct 2026 15:52:31 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-15.46.16.jpeg?fit=720%2C950&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-15.46.16.jpeg?fit=720%2C950&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-15.46.16.jpeg?fit=720%2C950&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-28-at-15.46.16.jpeg?fit=720%2C950&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Is the United Nations Being Able to Work Independently?]]></title>
@@ -3911,8 +3933,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/866131</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 28 Oct 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-25.jpg?fit=720%2C450&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-25.jpg?fit=720%2C450&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-25.jpg?fit=720%2C450&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-25.jpg?fit=720%2C450&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Bangladeshi immigrant/ Get involved in American politics]]></title>
@@ -4087,8 +4109,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/865887</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 27 Oct 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-25.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-25.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-25.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-25.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[What the Declining Enrolment in Secondary Schools is Telling Us]]></title>
@@ -4096,8 +4118,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/865890</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 27 Oct 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-24.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-24.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-24.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-24.jpg?fit=720%2C419&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[The political responsibility of a protesting generation]]></title>
@@ -4383,8 +4405,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/865644</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 26 Oct 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-23.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-23.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-23.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-2-23.jpg?fit=720%2C421&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beyond Aid and Affinity: Bangladesh and Japan Must Deliver Shared Prosperity]]></title>
@@ -4392,8 +4414,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/865645</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 26 Oct 2026 00:03:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-24.jpg?fit=720%2C454&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-24.jpg?fit=720%2C454&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-24.jpg?fit=720%2C454&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/10/5-1-24.jpg?fit=720%2C454&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Unlocking medical device market's potential]]></title>
@@ -4466,36 +4488,6 @@
             <guid isPermaLink="true">https://dailyasianage.com/news/359449/road-safety-is-still-not-properly-addressed</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Sun, 25 Oct 2026 18:00:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Quiet Kind of Revenge]]></title>
-            <description><![CDATA[Md. Sadman Soumik]]></description>
-            <link>https://dailyasianage.com/news/359446/a-quiet-kind-of-revenge</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359446/a-quiet-kind-of-revenge</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Sun, 25 Oct 2026 18:00:11 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1792950845_7.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1792950845_7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Not Urea Deep Placement in Rice Cultivation?]]></title>
-            <description><![CDATA[Dr. M Monir Uddin]]></description>
-            <link>https://dailyasianage.com/news/359445/why-not-urea-deep-placement-in-rice-cultivation</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359445/why-not-urea-deep-placement-in-rice-cultivation</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Sun, 25 Oct 2026 18:00:16 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1792950784_9.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1792950784_9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Government Criticizes Sheikh Hasina’s Political Activities Sitting in India]]></title>
-            <description><![CDATA[According to]]></description>
-            <link>https://dailyasianage.com/news/359444/bangladesh-government-criticizes-sheikh-hasinas-political-activities-sitting-in-india</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359444/bangladesh-government-criticizes-sheikh-hasinas-political-activities-sitting-in-india</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Sun, 25 Oct 2026 18:00:16 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1792950730_2.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1792950730_2.jpg"/>
         </item>
     </channel>
 </rss>
