@@ -4,10 +4,67 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Nov 2026 22:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2026 04:54:23 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Nov 2026 22:40:38 GMT</pubDate>
+        <pubDate>Tue, 17 Nov 2026 04:54:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Midterms, madness, and mayhem]]></title>
+            <description><![CDATA[Perhaps a necessary tragedy of existing in a hyper-connected world is realising that someone else’s political...]]></description>
+            <link>https://tob.news/midterms-madness-and-mayhem/</link>
+            <guid isPermaLink="true">https://tob.news/midterms-madness-and-mayhem/</guid>
+            <category><![CDATA[Analysis]]></category>
+            <dc:creator><![CDATA[SN Rasul]]></dc:creator>
+            <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/10/US-Midterm-Elections-600x338.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/US-Midterm-Elections-600x338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh needs capital market reform]]></title>
+            <description><![CDATA[For many years, there has been an ongoing cycle in the capital market of Bangladesh of putting out fires and pointing fingers. However, the question needs to be asked: what type of...]]></description>
+            <link>https://tob.news/bangladesh-needs-capital-market-reform/</link>
+            <guid isPermaLink="true">https://tob.news/bangladesh-needs-capital-market-reform/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Kh. Asadul Islam Ripon]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 04:53:02 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/bangladesh-capital-market-900x506.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/bangladesh-capital-market-900x506.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Who gets to write Bangladesh’s AI rules?]]></title>
+            <description><![CDATA[Bangladesh has taken an important institutional step by forming a committee to formulate its National AI...]]></description>
+            <link>https://tob.news/who-gets-to-write-bangladeshs-ai-rules/</link>
+            <guid isPermaLink="true">https://tob.news/who-gets-to-write-bangladeshs-ai-rules/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Nafiul Ahmed Rafi]]></dc:creator>
+            <pubDate>Tue, 17 Nov 2026 04:53:02 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/ai-diplomacy-1-600x338.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/ai-diplomacy-1-600x338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Research credibility matters more than publication counts]]></title>
+            <description><![CDATA[THE true standing of a is defined by the quality of its knowledge, the credibility of its research and its commitment to truth. Research exists to create reliable knowledge that contributes to science, society and human welfare. This raises an urgent question for Bangladesh’s higher education sector: as research...]]></description>
+            <link>https://www.newagebd.net/post/today-op-ed/312420/research-credibility-matters-more-than-publication-counts</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/today-op-ed/312420/research-credibility-matters-more-than-publication-counts</guid>
+            <category><![CDATA[OP-ED]]></category>
+            <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gas beneath feet and billions we chose to import]]></title>
+            <description><![CDATA[BANGLADESH has spent years looking for gas in wrong places, not necessarily geographically, but politically. While the country has increasingly turned to expensive imported liquefied natural gas to keep industries, power plants and fertiliser factories running, a substantial domestic gas resource has remained stranded in Bhola. The irony is difficult to ignore: the country did not simply fail to find an alternative to imported energy. It appears to have postponed an alternative that was already known to exist...]]></description>
+            <link>https://www.newagebd.net/post/today-op-ed/312291/gas-beneath-feet-and-billions-we-chose-to-import</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/today-op-ed/312291/gas-beneath-feet-and-billions-we-chose-to-import</guid>
+            <category><![CDATA[OP-ED]]></category>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reeling in reels]]></title>
+            <description><![CDATA[SHORT videos dubbed as reels are engaging millions of people, especially the young generation, every moment. It is dopamine and algorithms behind the reels that are at play to snatch away time from them. People are drawn into the hook by easy, immediate rewards of self-gratification and the more they are so, the hungrier they become to make life increasingly thrilled and ultra-motivated. Routine life — reading, resting, pausing for some time to ponder, meeting people or sitting cosily at the twilight in the living room and sipping tea with the family — feel like biting some stale bread to them...]]></description>
+            <link>https://www.newagebd.net/post/today-op-ed/312290/reeling-in-reels</link>
+            <guid isPermaLink="true">https://www.newagebd.net/post/today-op-ed/312290/reeling-in-reels</guid>
+            <category><![CDATA[OP-ED]]></category>
+            <pubDate>Fri, 04 Sep 2026 00:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bangladesh's 35% SME lending target needs a workable plan]]></title>
             <description><![CDATA[Bangladesh wants banks to direct 35% of their lending to SMEs, but without cheaper lending infrastructure, better risk assessment and more flexible targets, the ambition risks becoming another...]]></description>
@@ -3459,8 +3516,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868245</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Many Hands, Few Skills]]></title>
@@ -3468,8 +3525,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868246</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A taste of the Middle East at Al Sham]]></title>
@@ -3765,8 +3822,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868044</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Freedom of Expression and Independent Media: Foundations of a Strong and Proud Nation]]></title>
@@ -3774,8 +3831,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868045</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beat diabetes and hypertension among women in Bangladesh and the Global South]]></title>
@@ -4191,8 +4248,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867863</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 04 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/7-1-2.jpg?fit=720%2C395&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A Living Wage for Garment Workers: What Is Needed Is Goodwill and Dialogue]]></title>
@@ -4200,8 +4257,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/867867</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Wed, 04 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3.jpg?fit=600%2C344&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A decent living should not depend on bargaining power]]></title>
@@ -4431,54 +4488,6 @@
             <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/will-franchise-buses-also-be-commuter-friendly-1793631012</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Mon, 02 Nov 2026 21:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Protect the reef to sustain tourism]]></title>
-            <description><![CDATA[Tourism on Saint Martin's Island must be guided by science and environmental sustainability to preserve its fragile ecosystem. Although a daily limit of 3,500 visitors has been set, it is essential to scientifically assess whether the island can stand the pressure.The BDT 100 environmental conservation fee collected from each visitor...]]></description>
-            <link>https://today.thefinancialexpress.com.bd/editorial/protect-the-reef-to-sustain-tourism-1793631030</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/protect-the-reef-to-sustain-tourism-1793631030</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Semiconductors: An opportunity to diversify export]]></title>
-            <link>https://today.thefinancialexpress.com.bd/editorial/semiconductors-an-opportunity-to-diversify-export-1793631060</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/semiconductors-an-opportunity-to-diversify-export-1793631060</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:04:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[America's $11 billion midterm election]]></title>
-            <link>https://today.thefinancialexpress.com.bd/views-opinion/americas-11-billion-midterm-election-1793631155</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-opinion/americas-11-billion-midterm-election-1793631155</guid>
-            <category><![CDATA[Views & Opinion]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:05:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bureaucratic Hassles  Make Doing Business Hard for Entrepreneurs]]></title>
-            <description><![CDATA[Entrepreneurship is one of the key driving forces behind economic growth and]]></description>
-            <link>https://dailyasianage.com/news/359759/bureaucratic-hassles--make-doing-business-hard-for-entrepreneurs</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359759/bureaucratic-hassles--make-doing-business-hard-for-entrepreneurs</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Violence in Industrial Zones Harms Export Potentialities]]></title>
-            <description><![CDATA[Bangladesh is one of the fastest-growing economies in South Asia. Its industrial]]></description>
-            <link>https://dailyasianage.com/news/359760/violence-in-industrial-zones-harms-export-potentialities</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359760/violence-in-industrial-zones-harms-export-potentialities</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:05:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[National Youth Day 2026: Beyond Crises Towards New Horizons of Possibility]]></title>
-            <description><![CDATA[Dr. Md. Anwar Hossain]]></description>
-            <link>https://dailyasianage.com/news/359758/national-youth-day-2026-beyond-crises-towards-new-horizons-of-possibility</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359758/national-youth-day-2026-beyond-crises-towards-new-horizons-of-possibility</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Mon, 02 Nov 2026 21:05:09 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1793645143_5.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1793645143_5.jpg"/>
         </item>
     </channel>
 </rss>
