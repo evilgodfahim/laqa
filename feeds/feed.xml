@@ -4,17 +4,94 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Nov 2026 03:58:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:35:39 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Nov 2026 03:58:55 GMT</pubDate>
+        <pubDate>Wed, 18 Nov 2026 12:35:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[The Global South and the Xi-Trump-Putin Equation]]></title>
+            <description><![CDATA[The upcoming historic meeting of Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin in Shenzhen on November 19, 2026, is poised to be a pivotal event in...]]></description>
+            <link>https://tob.news/the-global-south-and-the-xi-trump-putin-equation/</link>
+            <guid isPermaLink="true">https://tob.news/the-global-south-and-the-xi-trump-putin-equation/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Prof. Sujit Kumar Datta]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 11:34:13 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/shenzhen-900x506.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/shenzhen-900x506.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A safer capital: Urgent action needed to combat armed crime]]></title>
+            <description><![CDATA[According to media reports citing Dhaka Metropolitan Police (DMP), 401 suspected contract shooters have been identified...]]></description>
+            <link>https://tob.news/a-safer-capital-urgent-action-needed-to-combat-armed-crime/</link>
+            <guid isPermaLink="true">https://tob.news/a-safer-capital-urgent-action-needed-to-combat-armed-crime/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Prodeepto Mobarook]]></dc:creator>
+            <pubDate>Wed, 18 Nov 2026 11:34:13 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2025/11/TIMES-720-1-5.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2025/11/TIMES-720-1-5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tana Toraja: Where death doesn't mean goodbye]]></title>
+            <description><![CDATA[A journey into Indonesia’s highlands, where families may keep deceased loved ones at home for months or even years before holding elaborate funerals]]></description>
+            <link>https://www.tbsnews.net/features/explorer/tana-toraja-where-death-doesnt-mean-goodbye-1606736</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/explorer/tana-toraja-where-death-doesnt-mean-goodbye-1606736</guid>
+            <category><![CDATA[Explorer]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:34:19 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/lemo-cliff-burial-toraja-south-sulawesi-indonesia-1024x682.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/lemo-cliff-burial-toraja-south-sulawesi-indonesia-1024x682.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Pack light, dress right: Your guide to November getaways]]></title>
+            <link>https://www.tbsnews.net/features/mode/pack-light-dress-right-your-guide-november-getaways-1606681</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/mode/pack-light-dress-right-your-guide-november-getaways-1606681</guid>
+            <category><![CDATA[Mode]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:34:19 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/untitled_design_2.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/untitled_design_2.png"/>
+        </item>
+        <item>
+            <title><![CDATA[On Sri Lanka’s coast, the human cost of a changing climate]]></title>
+            <link>https://www.tbsnews.net/features/panorama/sri-lankas-coast-human-cost-changing-climate-1606396</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/sri-lankas-coast-human-cost-changing-climate-1606396</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:34:19 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/fisherman.jfif_.jpeg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/fisherman.jfif_.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Can JoBike’s cycles bridge the Uttara metro station’s last-mile gap?]]></title>
+            <link>https://www.tbsnews.net/features/panorama/can-jobikes-cycles-bridge-uttara-metro-stations-last-mile-gap-1606151</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/can-jobikes-cycles-bridge-uttara-metro-stations-last-mile-gap-1606151</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:34:19 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/chbih_susmitaa_ckrbrtii_mishu.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/chbih_susmitaa_ckrbrtii_mishu.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rooppur’s first grid connection: Bangladesh enters nuclear power era, but the real test lies ahead]]></title>
+            <link>https://www.tbsnews.net/features/panorama/rooppurs-first-grid-connection-bangladesh-enters-nuclear-power-era-real-test-lies</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/rooppurs-first-grid-connection-bangladesh-enters-nuclear-power-era-real-test-lies</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:34:19 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/20231004_rajibdhar_1596.jpg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/18/20231004_rajibdhar_1596.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Why Qatar is buying American LNG while expanding its own exports]]></title>
+            <description><![CDATA[Dr Umud ShokriQatar is buying American liquefied natural gas while spending billions to expand its own export capacity. That apparent contradiction offers a way to understand Doha...]]></description>
+            <link>https://bangladeshpost.net/posts/why-qatar-is-buying-american-lng-while-expanding-its-own-exports-175178</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/why-qatar-is-buying-american-lng-while-expanding-its-own-exports-175178</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Wed, 18 Nov 2026 12:35:38 GMT</pubDate>
+            <media:content url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-11/6ae9d2f4db8dd.jpg" medium="image"/>
+            <media:thumbnail url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-11/6ae9d2f4db8dd.jpg"/>
+        </item>
         <item>
             <title><![CDATA[What stages really involve before Rooppur supplies electricity to the grid?]]></title>
             <description><![CDATA[If everything proceeds as scheduled, Bangladesh is on the verge of reaching a major milestone by...]]></description>
             <link>https://tob.news/what-stages-really-involve-before-rooppur-supplies-electricity-to-the-grid/</link>
             <guid isPermaLink="true">https://tob.news/what-stages-really-involve-before-rooppur-supplies-electricity-to-the-grid/</guid>
             <category><![CDATA[Analysis]]></category>
-            <dc:creator><![CDATA[Md Shafiqul Islam]]></dc:creator>
             <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/04/Rooppur-Nuclear-Power-Plant-1.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/04/Rooppur-Nuclear-Power-Plant-1.jpg"/>
@@ -25,7 +102,6 @@
             <link>https://tob.news/will-ishraque-learn-restraint-now/</link>
             <guid isPermaLink="true">https://tob.news/will-ishraque-learn-restraint-now/</guid>
             <category><![CDATA[Analysis]]></category>
-            <dc:creator><![CDATA[M Abul Kalam Azad]]></dc:creator>
             <pubDate>Mon, 19 Oct 2026 00:00:00 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/10/Ishraque-600x338.jpg" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/Ishraque-600x338.jpg"/>
@@ -3770,8 +3846,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868245</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Many Hands, Few Skills]]></title>
@@ -3779,8 +3855,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868246</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A taste of the Middle East at Al Sham]]></title>
@@ -4076,8 +4152,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868044</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Freedom of Expression and Independent Media: Foundations of a Strong and Proud Nation]]></title>
@@ -4085,8 +4161,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868045</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beat diabetes and hypertension among women in Bangladesh and the Global South]]></title>
@@ -4406,78 +4482,6 @@
             <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/are-pharmacies-replacing-doctors-1793715448</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Tue, 03 Nov 2026 18:50:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The looming 4F crisis]]></title>
-            <description><![CDATA[The global  economy faces converging shocks that could turn an energy crisis into a wider food and financial crisis. The World  Bank's October 2026 Commodity Markets Outlook estimates that commodity prices will rise by 23 per cent this year, driven by a 32 per cent increase in energy prices. Brent...]]></description>
-            <link>https://today.thefinancialexpress.com.bd/views-opinion/the-looming-4f-crisis-1793715325</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-opinion/the-looming-4f-crisis-1793715325</guid>
-            <category><![CDATA[Views & Opinion]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Freezing Business  Leaders' Bank Accounts Grossly Jeopardizes Industries]]></title>
-            <description><![CDATA[The freezing of bank accounts belonging to business leaders and their associated]]></description>
-            <link>https://dailyasianage.com/news/359806/freezing-business--leaders-bank-accounts-grossly-jeopardizes-industries</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359806/freezing-business--leaders-bank-accounts-grossly-jeopardizes-industries</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Food Prices Move Beyond Ordinary Citizens' Capability]]></title>
-            <description><![CDATA[The rising prices of essential food items have become a serious concern]]></description>
-            <link>https://dailyasianage.com/news/359807/food-prices-move-beyond-ordinary-citizens-capability</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359807/food-prices-move-beyond-ordinary-citizens-capability</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UDYOG: From Ideas to Enterprises]]></title>
-            <description><![CDATA[For millions of young Bangladeshis, the problem is]]></description>
-            <link>https://dailyasianage.com/news/359805/udyog-from-ideas-to-enterprises</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359805/udyog-from-ideas-to-enterprises</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:40 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1793729970_2.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1793729970_2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Academic Experts and Business Leaders Can Help Industrial Sector Bounce Back]]></title>
-            <description><![CDATA[Bashir Al Mamun]]></description>
-            <link>https://dailyasianage.com/news/359804/academic-experts-and-business-leaders-can-help-industrial-sector-bounce-back</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359804/academic-experts-and-business-leaders-can-help-industrial-sector-bounce-back</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:40 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1793729924_7.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1793729924_7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Climate Change Takes a High Toll on Bangladesh]]></title>
-            <description><![CDATA[Shafiqul Islam Khokon]]></description>
-            <link>https://dailyasianage.com/news/359803/climate-change-takes-a-high-toll-on-bangladesh</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359803/climate-change-takes-a-high-toll-on-bangladesh</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:56 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1793729847_3.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1793729847_3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Neither Child's Play Nor Adult Court]]></title>
-            <description><![CDATA[Kazi Sajjatul Haque]]></description>
-            <link>https://dailyasianage.com/news/359802/neither-childs-play-nor-adult-court</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359802/neither-childs-play-nor-adult-court</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:50:56 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1793729755_7.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1793729755_7.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Workers deserve fair wages, but inflation must not be ignored]]></title>
-            <description><![CDATA[The recent violent demonstrations by garment workers demanding a minimum monthly wage of Tk 30,000 have once again exposed the growing pressure on workers struggling to cope with t...]]></description>
-            <link>https://bangladeshpost.net/posts/workers-deserve-fair-wages-but-inflation-must-not-be-ignored-175177</link>
-            <guid isPermaLink="true">https://bangladeshpost.net/posts/workers-deserve-fair-wages-but-inflation-must-not-be-ignored-175177</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Tue, 03 Nov 2026 18:51:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
