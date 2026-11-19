@@ -4,10 +4,85 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Nov 2026 02:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 10:56:45 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 19 Nov 2026 02:21:04 GMT</pubDate>
+        <pubDate>Thu, 19 Nov 2026 10:56:45 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fertiliser subsidy and salary of government officials]]></title>
+            <description><![CDATA[Subsidies primarily bridge the gap between international and domestic production costs, distribution and the controlled retail price for critical inputs like fertiliser, diesel, seeds, and irrigation. When global commodity or energy prices...]]></description>
+            <link>https://tob.news/fertiliser-subsidy-and-salary-of-government-officials/</link>
+            <guid isPermaLink="true">https://tob.news/fertiliser-subsidy-and-salary-of-government-officials/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[M S Siddiqui]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 10:55:29 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/05/Haor-1-1.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/05/Haor-1-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Philosophy Day 2026: Can philosophy ensure we all live together?]]></title>
+            <description><![CDATA[A wonderful proposition, ‘Living the Earth Together’, was ordained by UNESCO headquarters to deliver a speech...]]></description>
+            <link>https://tob.news/world-philosophy-day-2026-can-philosophy-ensure-we-all-live-together/</link>
+            <guid isPermaLink="true">https://tob.news/world-philosophy-day-2026-can-philosophy-ensure-we-all-live-together/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Dr. Siddhartha Shankar Joarder]]></dc:creator>
+            <pubDate>Thu, 19 Nov 2026 10:55:29 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/philosophy-600x338.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/philosophy-600x338.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka Airport Railway Station: A vital hub struggling to keep up]]></title>
+            <description><![CDATA[With 42 intercity and 16 local trains operating through the almost 47-year-old station, the complex no longer has the capacity to cope with the number of passengers it gets every day]]></description>
+            <link>https://www.tbsnews.net/features/panorama/dhaka-airport-railway-station-vital-hub-struggling-keep-1607806</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/dhaka-airport-railway-station-vital-hub-struggling-keep-1607806</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:55:33 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/whatsapp_image_2026-11-19_at_3.43.07_pm.jpeg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/whatsapp_image_2026-11-19_at_3.43.07_pm.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[3-year LDC reprieve is now a political promise, not an economic matter: Debapriya]]></title>
+            <link>https://www.tbsnews.net/features/panorama/3-year-ldc-reprieve-now-political-promise-not-economic-matter-debapriya-1607781</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/panorama/3-year-ldc-reprieve-now-political-promise-not-economic-matter-debapriya-1607781</guid>
+            <category><![CDATA[Panorama]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:55:33 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/debapriya_bhattachariya.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/debapriya_bhattachariya.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A fairer garments wage requires more than a higher minimum]]></title>
+            <link>https://www.tbsnews.net/thoughts/fairer-garments-wage-requires-more-higher-minimum-1607681</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/fairer-garments-wage-requires-more-higher-minimum-1607681</guid>
+            <category><![CDATA[Thoughts]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:55:33 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/whatsapp_image_2025-03-29_at_12.17.40_pm.jpeg" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/19/whatsapp_image_2025-03-29_at_12.17.40_pm.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bomb blasts and arson attacks: Public safety cannot be taken lightly]]></title>
+            <link>https://bangladeshpost.net/posts/bomb-blasts-and-arson-attacks-public-safety-cannot-be-taken-lightly-173638</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/bomb-blasts-and-arson-attacks-public-safety-cannot-be-taken-lightly-173638</guid>
+            <category><![CDATA[Editorial]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi intl. students in Australia: Opportunities, Challenges and Shared Responsibilities]]></title>
+            <link>https://bangladeshpost.net/posts/bangladeshi-intl-students-in-australia-opportunities-challenges-and-shared-responsibilities-174669</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/bangladeshi-intl-students-in-australia-opportunities-challenges-and-shared-responsibilities-174669</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:56:43 GMT</pubDate>
+            <media:content url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-10/6ad767ec1e2f5.png" medium="image"/>
+            <media:thumbnail url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-10/6ad767ec1e2f5.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Why the Mecca Agreement has given the UAE-Israel alliance the jitters]]></title>
+            <link>https://bangladeshpost.net/posts/why-the-mecca-agreement-has-given-the-uae-israel-alliance-the-jitters-172483</link>
+            <guid isPermaLink="true">https://bangladeshpost.net/posts/why-the-mecca-agreement-has-given-the-uae-israel-alliance-the-jitters-172483</guid>
+            <category><![CDATA[Opinion]]></category>
+            <pubDate>Thu, 19 Nov 2026 10:56:43 GMT</pubDate>
+            <media:content url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-08/6a85505e8eba5.jpg" medium="image"/>
+            <media:thumbnail url="https://bangladeshpost.net/webroot/uploads/featureimage/2026-08/6a85505e8eba5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Drift towards water bankruptcy]]></title>
             <link>https://www.newagebd.net/post/today-op-ed/312580/drift-towards-water-bankruptcy</link>
@@ -4054,8 +4129,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868245</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-5.jpg?fit=720%2C412&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Many Hands, Few Skills]]></title>
@@ -4063,8 +4138,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868246</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-2-6.jpg?fit=720%2C466&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[A taste of the Middle East at Al Sham]]></title>
@@ -4360,8 +4435,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868044</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-3-1.jpg?fit=720%2C370&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Freedom of Expression and Independent Media: Foundations of a Strong and Proud Nation]]></title>
@@ -4369,8 +4444,8 @@
             <guid isPermaLink="true">https://dailynewnation.com/news/868045</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Thu, 05 Nov 2026 00:02:00 GMT</pubDate>
-            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
-            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
+            <media:content url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1" medium="image"/>
+            <media:thumbnail url="https://i0.wp.com/dailynewnation.com/wp-content/uploads/2026/11/5-1-4.jpg?fit=720%2C439&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;ssl=1"/>
         </item>
         <item>
             <title><![CDATA[Beat diabetes and hypertension among women in Bangladesh and the Global South]]></title>
@@ -4401,81 +4476,6 @@
             <pubDate>Wed, 04 Nov 2026 11:06:17 GMT</pubDate>
             <media:content url="https://tob.news/wp-content/uploads/2026/11/herbert-spencer-600x338.png" medium="image"/>
             <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/herbert-spencer-600x338.png"/>
-        </item>
-        <item>
-            <title><![CDATA[When political loyalty replaces professional judgment, development suffers]]></title>
-            <description><![CDATA[Bangladesh’s development ambitions require institutions where evidence matters more than political affiliation, professional disagreement is respected, and leadership is measured by accountability...]]></description>
-            <link>https://www.tbsnews.net/thoughts/when-political-loyalty-replaces-professional-judgment-development-suffers-1592346</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/when-political-loyalty-replaces-professional-judgment-development-suffers-1592346</guid>
-            <category><![CDATA[Thoughts]]></category>
-            <pubDate>Wed, 04 Nov 2026 11:45:25 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/17-28_anniv25_part_1-1-11.jpg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/17-28_anniv25_part_1-1-11.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Small mistakes, big repair bills: 5 driving habits that could damage your car]]></title>
-            <link>https://www.tbsnews.net/features/wheels/small-mistakes-big-repair-bills-5-driving-habits-could-damage-your-car-1592211</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/wheels/small-mistakes-big-repair-bills-5-driving-habits-could-damage-your-car-1592211</guid>
-            <category><![CDATA[Wheels]]></category>
-            <pubDate>Wed, 04 Nov 2026 11:45:25 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/538471466_5091300737762499_3498464061453906837_n.jpg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/538471466_5091300737762499_3498464061453906837_n.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEYOND THE CITY: 4 adventure bikes to consider for your next ride]]></title>
-            <link>https://www.tbsnews.net/features/wheels/beyond-city-4-adventure-bikes-consider-your-next-ride-1592141</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/features/wheels/beyond-city-4-adventure-bikes-consider-your-next-ride-1592141</guid>
-            <category><![CDATA[Wheels]]></category>
-            <pubDate>Wed, 04 Nov 2026 11:45:25 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/baja-espana-aragon-harley-davidson-pan-america-1250-roost.png" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/baja-espana-aragon-harley-davidson-pan-america-1250-roost.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Why are we losing blood donors?]]></title>
-            <link>https://www.tbsnews.net/thoughts/why-are-we-losing-blood-donors-1592506</link>
-            <guid isPermaLink="true">https://www.tbsnews.net/thoughts/why-are-we-losing-blood-donors-1592506</guid>
-            <category><![CDATA[Thoughts]]></category>
-            <pubDate>Wed, 04 Nov 2026 11:45:25 GMT</pubDate>
-            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/bloomberg.jpg" medium="image"/>
-            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/04/bloomberg.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Microplastics in our food chain: Prevention must begin now]]></title>
-            <description><![CDATA[The detection of microplastics in fresh and dried fish, water and sediments across different parts of the country is a deeply concerning development that demands urgent attention f...]]></description>
-            <link>https://bangladeshpost.net/posts/microplastics-in-our-food-chain-prevention-must-begin-now-175199</link>
-            <guid isPermaLink="true">https://bangladeshpost.net/posts/microplastics-in-our-food-chain-prevention-must-begin-now-175199</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Wed, 04 Nov 2026 11:46:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[France fraught as Macron faces a maelstrom!]]></title>
-            <description><![CDATA[The country which gave the world the revolution to establish equality, liberty and fraternity is in...]]></description>
-            <link>https://tob.news/france-fraught-as-macron-faces-a-maelstrom/</link>
-            <guid isPermaLink="true">https://tob.news/france-fraught-as-macron-faces-a-maelstrom/</guid>
-            <category><![CDATA[Analysis]]></category>
-            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://tob.news/wp-content/uploads/2026/10/France-4-600x338.jpg" medium="image"/>
-            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/France-4-600x338.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[No Substantial Steps Yet Taken to Reinstate Workers Who Lost Their Jobs]]></title>
-            <description><![CDATA[Rafiqul Islam Pintu]]></description>
-            <link>https://dailyasianage.com/news/359350/no-substantial-steps-yet-taken-to-reinstate-workers-who-lost-their-jobs</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359350/no-substantial-steps-yet-taken-to-reinstate-workers-who-lost-their-jobs</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Tue, 03 Nov 2026 23:48:45 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1792516765_5.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1792516765_5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Adolf Hitler: A Critical Contemplation on His Actions and Historical Significance]]></title>
-            <description><![CDATA[Nazifa Bashir]]></description>
-            <link>https://dailyasianage.com/news/359349/adolf-hitler-a-critical-contemplation-on-his-actions-and-historical-significance</link>
-            <guid isPermaLink="true">https://dailyasianage.com/news/359349/adolf-hitler-a-critical-contemplation-on-his-actions-and-historical-significance</guid>
-            <category><![CDATA[OP-ED]]></category>
-            <pubDate>Tue, 03 Nov 2026 23:48:45 GMT</pubDate>
-            <media:content url="https://dailyasianage.com/library/small_1792516708_3.jpg" medium="image"/>
-            <media:thumbnail url="https://dailyasianage.com/library/small_1792516708_3.jpg"/>
         </item>
     </channel>
 </rss>
