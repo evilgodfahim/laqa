@@ -4,10 +4,32 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 21 Nov 2026 00:31:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2026 07:54:11 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Nov 2026 00:31:52 GMT</pubDate>
+        <pubDate>Sat, 21 Nov 2026 07:54:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh’s National Port Strategy must work beyond the port gate]]></title>
+            <description><![CDATA[The deadline for public comments on the draft Bangladesh National Port Strategy 2026 passed on November 5. Attention should now turn to how those comments will shape the final document. Covering seaports,...]]></description>
+            <link>https://tob.news/bangladeshs-national-port-strategy-must-work-beyond-the-port-gate/</link>
+            <guid isPermaLink="true">https://tob.news/bangladeshs-national-port-strategy-must-work-beyond-the-port-gate/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Ahamedul Karim Chowdhury]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:51:37 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/06/port-modernisation-bangladesh.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/port-modernisation-bangladesh.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The age of loud ignorance: When fools become famous and the wise fall silent]]></title>
+            <description><![CDATA[“A fool is known by his speech, and a wise man by silence.” -Pythagoras One of...]]></description>
+            <link>https://tob.news/the-age-of-loud-ignorance-when-fools-become-famous-and-the-wise-fall-silent/</link>
+            <guid isPermaLink="true">https://tob.news/the-age-of-loud-ignorance-when-fools-become-famous-and-the-wise-fall-silent/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Dr Palto Datta]]></dc:creator>
+            <pubDate>Sat, 21 Nov 2026 07:51:37 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/wisdom-600x338.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/wisdom-600x338.png"/>
+        </item>
         <item>
             <title><![CDATA[6 decades on, Purnima remains Gulistan’s favourite snack joint]]></title>
             <description><![CDATA[Started in 1962 as a shari and cloth shop, New Purnima Snacks Bar turned a Nagpur-style thick jilapi into a Dhaka favourite. The price has climbed from Tk4 to Tk240 a kilo, but the queue in front...]]></description>
@@ -4453,26 +4475,6 @@
             <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
             <media:content url="https://outspoken.newagebd.com/files/img/202611/5d42e2748407846d9efc2037cb567bc4_medium.jpg" medium="image"/>
             <media:thumbnail url="https://outspoken.newagebd.com/files/img/202611/5d42e2748407846d9efc2037cb567bc4_medium.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHERE IS LALON: Philosopher we failed to introduce to the world]]></title>
-            <description><![CDATA[I HAD just finished presenting my paper at an interdisciplinary conference and was experiencing that wonderful post-presentation condition when you are no longer responsible for sounding intelligent.]]></description>
-            <link>https://www.newagebd.net/post/opinion/320993/where-is-lalon-philosopher-we-failed-to-introduce-to-the-world</link>
-            <guid isPermaLink="true">https://www.newagebd.net/post/opinion/320993/where-is-lalon-philosopher-we-failed-to-introduce-to-the-world</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://outspoken.newagebd.com/files/img/202611/b256ec0a677c4a98fe2fee7edc362f5e_medium.jpg" medium="image"/>
-            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202611/b256ec0a677c4a98fe2fee7edc362f5e_medium.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can Bangladesh turn rural heritage into global brands?]]></title>
-            <description><![CDATA[WHAT does a potter in Rajshahi have in common with Japan’s post-war villages? Both are sitting on wealth they have not yet learned to sell. Bangladesh’s export policy has begun to draw on that same insight, setting out a formal one village one product plan built around local branding and district-level exhibitions. The latest national budget...]]></description>
-            <link>https://www.newagebd.net/post/opinion/320992/can-bangladesh-turn-rural-heritage-into-global-brands</link>
-            <guid isPermaLink="true">https://www.newagebd.net/post/opinion/320992/can-bangladesh-turn-rural-heritage-into-global-brands</guid>
-            <category><![CDATA[Opinion]]></category>
-            <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-            <media:content url="https://outspoken.newagebd.com/files/img/202611/cebf64f2f9c9836cf3193124d30996ff_medium.jpg" medium="image"/>
-            <media:thumbnail url="https://outspoken.newagebd.com/files/img/202611/cebf64f2f9c9836cf3193124d30996ff_medium.jpg"/>
         </item>
     </channel>
 </rss>
