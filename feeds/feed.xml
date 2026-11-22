@@ -4,10 +4,32 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 01:49:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2026 09:04:06 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 01:49:46 GMT</pubDate>
+        <pubDate>Sun, 22 Nov 2026 09:04:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh’s new political order faces its defining test]]></title>
+            <description><![CDATA[Democracy is challenged in situations of  political violence, demands for fairness, and decisions by governments to prioritise political pragmatism or constitutional requirements. Currently, Bangladesh faces this challenge. Following the events of July...]]></description>
+            <link>https://tob.news/bangladeshs-new-political-order-faces-its-defining-test/</link>
+            <guid isPermaLink="true">https://tob.news/bangladeshs-new-political-order-faces-its-defining-test/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Dr. Serajul I. Bhuiyan]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:02:32 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/06/bangladesh-politics2.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/06/bangladesh-politics2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parliament representation reflects diversity]]></title>
+            <description><![CDATA[Whether financial power is now winning the chance to represent people in Parliament, one of the...]]></description>
+            <link>https://tob.news/parliament-representation-reflects-diversity/</link>
+            <guid isPermaLink="true">https://tob.news/parliament-representation-reflects-diversity/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Shahiduzzaman]]></dc:creator>
+            <pubDate>Sun, 22 Nov 2026 09:02:32 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/10/Jatiya-Sangsad-600x338.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/10/Jatiya-Sangsad-600x338.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Durga Puja reflects Bangladesh’s communal harmony]]></title>
             <description><![CDATA[As goddess Durga heads back home to Kailash, marking the end of the grand Sharadiya Durga...]]></description>
@@ -4447,22 +4469,6 @@
             <description><![CDATA[Energy shortages make governments impatient, and impatient governments often turn to quick fixes without giving enough thought to their long-term consequences. Unfortunately, the government's search for quick solution has now brought the Sundarbans into consideration as a possible site for new LNG terminal. According to recent media reports, the government...]]></description>
             <link>https://today.thefinancialexpress.com.bd/editorial/must-the-sundarbans-pay-for-our-energy-needs-1793981638</link>
             <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/must-the-sundarbans-pay-for-our-energy-needs-1793981638</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Fri, 06 Nov 2026 21:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lowering duty on imported fruits]]></title>
-            <description><![CDATA[Higher tariffs have pushed up the prices of imported fruits leading to a significant reduction of import volume of the same. Several newspapers have published reports on this, based on the findings of a report prepared by a government body. To highlight the issue, a leading vernacular contemporary even carried...]]></description>
-            <link>https://today.thefinancialexpress.com.bd/editorial/lowering-duty-on-imported-fruits-1793981679</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/lowering-duty-on-imported-fruits-1793981679</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Fri, 06 Nov 2026 21:54:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ensure fair wages, land rights for tea workers]]></title>
-            <description><![CDATA[A total of 167 tea gardens in the country employ roughly 150,000 workers. The people whose sweat built this industry earn a daily cash-base wage of just Tk187, or about Tk5,610 a month. How can a family afford food, clothing, education and medical care on that amount? The question remains...]]></description>
-            <link>https://today.thefinancialexpress.com.bd/editorial/ensure-fair-wages-land-rights-for-tea-workers-1793981702</link>
-            <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/ensure-fair-wages-land-rights-for-tea-workers-1793981702</guid>
             <category><![CDATA[Editorial]]></category>
             <pubDate>Fri, 06 Nov 2026 21:54:08 GMT</pubDate>
         </item>
