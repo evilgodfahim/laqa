@@ -4,10 +4,20 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 22 Nov 2026 23:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 03:30:54 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 22 Nov 2026 23:00:03 GMT</pubDate>
+        <pubDate>Mon, 23 Nov 2026 03:30:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[6 products to take your matcha obsession to the next level]]></title>
+            <description><![CDATA[Whether you are looking to recreate your favourite café order or experiment with an entirely new combination, here are six products to help build your own matcha station at home]]></description>
+            <link>https://www.tbsnews.net/features/brands/6-products-take-your-matcha-obsession-next-level-1611056</link>
+            <guid isPermaLink="true">https://www.tbsnews.net/features/brands/6-products-take-your-matcha-obsession-next-level-1611056</guid>
+            <category><![CDATA[Brands]]></category>
+            <pubDate>Mon, 23 Nov 2026 03:29:38 GMT</pubDate>
+            <media:content url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/23/widescreen_matcha_still_life_by_window.png" medium="image"/>
+            <media:thumbnail url="https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2026/11/23/widescreen_matcha_still_life_by_window.png"/>
+        </item>
         <item>
             <title><![CDATA[Holding stock manipulators accountable, rebuilding trust]]></title>
             <description><![CDATA[The stock market of Bangladesh is showing some signs of revival after a long lull. However, the recovery is slow, held back by a subdued economic outlook and, more importantly, a lingering crisis of confidence among small investors. This distrust is not unfounded. The bourse has gone through two major...]]></description>
@@ -4458,15 +4468,6 @@
             <guid isPermaLink="true">https://bangladeshpost.net/posts/the-houthis-are-testing-the-limits-of-saudi-restraint-173294</guid>
             <category><![CDATA[Opinion]]></category>
             <pubDate>Sat, 07 Nov 2026 19:13:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mongla Port: A New Gateway to Economic Transformation]]></title>
-            <link>https://dailynewnation.com/news/868801</link>
-            <guid isPermaLink="true">https://dailynewnation.com/news/868801</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Sun, 08 Nov 2026 00:01:00 GMT</pubDate>
-            <media:content url="https://dailynewnation.com/wp-content/uploads/2026/11/5-2-8-720x431.jpg" medium="image"/>
-            <media:thumbnail url="https://dailynewnation.com/wp-content/uploads/2026/11/5-2-8-720x431.jpg"/>
         </item>
     </channel>
 </rss>
