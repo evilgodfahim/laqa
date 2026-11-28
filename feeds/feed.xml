@@ -4,10 +4,43 @@
         <description><![CDATA[Opinion and features from Times of Bangladesh and The Business Standard]]></description>
         <link>https://tob.news</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 28 Nov 2026 02:23:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2026 11:10:28 GMT</lastBuildDate>
         <atom:link href="https://tob.news/category/opinion/" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 28 Nov 2026 02:23:43 GMT</pubDate>
+        <pubDate>Sat, 28 Nov 2026 11:10:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Graduate employability: Why degrees alone are no longer enough]]></title>
+            <description><![CDATA[Graduates say they cannot find jobs. Employers say they cannot find skilled workers. How can both be true? After nearly three decades in UK higher education and conversations with students and recruiters...]]></description>
+            <link>https://tob.news/graduate-employability-why-degrees-alone-are-no-longer-enough/</link>
+            <guid isPermaLink="true">https://tob.news/graduate-employability-why-degrees-alone-are-no-longer-enough/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Dr Palto Datta]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2026 10:07:31 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/graduate-unemployment-900x506.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/graduate-unemployment-900x506.png"/>
+        </item>
+        <item>
+            <title><![CDATA[A gazette won’t scrub the floor]]></title>
+            <description><![CDATA[A woman waiting for a bus in the midday heat looks at the half-full water bottle...]]></description>
+            <link>https://tob.news/a-gazette-wont-scrub-the-floor/</link>
+            <guid isPermaLink="true">https://tob.news/a-gazette-wont-scrub-the-floor/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Fayazuddin Ahmad]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2026 10:07:31 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/Women-public-toilets-1-600x338.jpg" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/Women-public-toilets-1-600x338.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Godspeed Voyager-1: A homage to the farthest man-made object]]></title>
+            <description><![CDATA[On November 17, NASA invited the whole world to flash three letters in Morse Code, pointed...]]></description>
+            <link>https://tob.news/godspeed-voyager-1-a-homage-to-the-farthest-man-made-object/</link>
+            <guid isPermaLink="true">https://tob.news/godspeed-voyager-1-a-homage-to-the-farthest-man-made-object/</guid>
+            <category><![CDATA[Opinion]]></category>
+            <dc:creator><![CDATA[Navid Alam]]></dc:creator>
+            <pubDate>Sat, 28 Nov 2026 09:07:31 GMT</pubDate>
+            <media:content url="https://tob.news/wp-content/uploads/2026/11/voyager-1-600x338.png" medium="image"/>
+            <media:thumbnail url="https://tob.news/wp-content/uploads/2026/11/voyager-1-600x338.png"/>
+        </item>
         <item>
             <title><![CDATA[The river road carrying Bhola's gas to Dhaka]]></title>
             <description><![CDATA[With no pipeline connecting Bhola's gas fields to the national grid, ferries have become an unlikely lifeline carrying the island's gas to Dhaka's industries]]></description>
@@ -4453,31 +4486,6 @@
             <pubDate>Thu, 12 Nov 2026 22:59:53 GMT</pubDate>
             <media:content url="https://dailyasianage.com/library/small_1794505126_3.jpg" medium="image"/>
             <media:thumbnail url="https://dailyasianage.com/library/small_1794505126_3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coordinated Action Needed as Drought-Free Land Shrinks]]></title>
-            <link>https://dailynewnation.com/news/869937</link>
-            <guid isPermaLink="true">https://dailynewnation.com/news/869937</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public Responsibility, Personal Gifts and the Rights of the People]]></title>
-            <link>https://dailynewnation.com/news/869940</link>
-            <guid isPermaLink="true">https://dailynewnation.com/news/869940</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:04:00 GMT</pubDate>
-            <media:content url="https://dailynewnation.com/wp-content/uploads/2026/11/5-1-12.jpg" medium="image"/>
-            <media:thumbnail url="https://dailynewnation.com/wp-content/uploads/2026/11/5-1-12.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lessons from History: Safeguarding National Stability Against Sabotage]]></title>
-            <link>https://dailynewnation.com/news/869941</link>
-            <guid isPermaLink="true">https://dailynewnation.com/news/869941</guid>
-            <category><![CDATA[Editorial]]></category>
-            <pubDate>Fri, 13 Nov 2026 00:04:00 GMT</pubDate>
-            <media:content url="https://dailynewnation.com/wp-content/uploads/2026/11/5-2-12.jpg" medium="image"/>
-            <media:thumbnail url="https://dailynewnation.com/wp-content/uploads/2026/11/5-2-12.jpg"/>
         </item>
     </channel>
 </rss>
